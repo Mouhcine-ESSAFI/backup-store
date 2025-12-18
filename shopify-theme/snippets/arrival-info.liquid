@@ -1,0 +1,165 @@
+{{ '//code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css' | stylesheet_tag }}
+<script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js" defer="defer"></script>
+
+{%- assign arrival_date = 'products.general.arrival_date' | t -%}
+{%- assign pickup_address = 'products.general.pickup_address' | t -%}
+{%- assign tour_type = 'products.general.tour_type' | t -%}
+
+<input type="hidden" name="properties[{{ tour_type }}]" value="{{ product.type }}">
+
+<div class="tt-wrapper">
+  <div class="tt-title-options">{{ arrival_date }}:</div>
+  <div class="form-default">
+    <div class="form-group">
+      <input required class="form-control" id="date" type="text" name="properties[{{ arrival_date }}]" readonly>
+      <!-- <span style="display:block" class="instructions muted">Instructions.</span> -->
+    </div>
+  </div>
+</div>
+
+<script>
+  window.onload = function() {
+    if (window.jQuery) {
+      let $ = window.jQuery;
+      
+      $(function() {
+        var $datepicker = $("#date");
+        var selectedDate = new Date(); // set initial date
+    
+        $datepicker.datepicker({
+            dateFormat: "dd/mm/yy",
+            beforeShow: function(input, inst) {
+                if (selectedDate) {
+                    $(this).datepicker("setDate", selectedDate);
+                    selectedDate = null;
+                }
+            },
+            onSelect: function(dateText) {
+                selectedDate = $.datepicker.parseDate("dd/mm/yy", dateText);
+                var dayNamesShort = ['Dom', 'Lun', 'Mar', 'Mié', 'Jue', 'Vie', 'Sáb'];
+                var monthNames = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre'];
+                var monthNamesShort = ['ene', 'feb', 'mar', 'abr', 'may', 'jun', 'jul', 'ago', 'sep', 'oct', 'nov', 'dic'];
+                $("#date").val($.datepicker.formatDate("d M, yy", selectedDate, {
+                    dayNamesShort: dayNamesShort,
+                    monthNames: monthNames,
+                    monthNamesShort: monthNamesShort
+                }));
+            },
+            beforeShowDay: function(date) {
+              var blockedDates = [
+                new Date(2024, 5, 6), // June 5th, 2025
+                new Date(2024, 5, 7)  // June 6th, 2025
+                // new Date(2024, 5, 7)  June 7th, 2025
+              ];
+              var title = "Fiesta de Cordero: verifica disponibilidad"; // Customize this title as needed
+              for (var i = 0; i < blockedDates.length; i++) {
+                if (date.getTime() === blockedDates[i].getTime()) {
+                  return [false, "blocked-date pe-auto", title]; // Adds a title for the tooltip on hover
+                }
+              }
+              return [true, "", ""]; // Normal days without a title
+            },
+            // Other Datepicker options here
+            minDate: +1,
+            // end other Datepicker options
+            closeText: 'Cerrar',
+            prevText: '< Ant',
+            nextText: 'Sig >',
+            currentText: 'Hoy',
+            monthNames: ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre'],
+            monthNamesShort: ['ene', 'feb', 'mar', 'abr', 'may', 'jun', 'jul', 'ago', 'sep', 'oct', 'nov', 'dic'],
+            dayNames: ['domingo', 'lunes', 'martes', 'miércoles', 'jueves', 'viernes', 'sábado'],
+            dayNamesShort: ['dom', 'lun', 'mar', 'mié', 'jue', 'vie', 'sáb'],
+            dayNamesMin: ['D', 'L', 'M', 'X', 'J', 'V', 'S'],
+            weekHeader: 'Sm',
+            firstDay: 1,
+            isRTL: false,
+            showMonthAfterYear: false,
+            yearSuffix: ''
+        });
+      });
+      
+    }
+  }
+</script>
+
+{%- assign arrival_time = 'products.general.arrival_time' | t -%}
+{% assign booking_form_group_list = product.metafields.booking.form %}
+{% if booking_form_group_list %}
+{% for booking_form_group in booking_form_group_list.value %}
+{% if booking_form_group.display %}
+  {% assign properties_name = booking_form_group.title | downcase | replace: " ", "_" | prepend: "products.general." | t %}
+  <div class="tt-wrapper">
+    <div class="tt-title-options">{% if properties_name %}{{ properties_name }}:{% else %}{{ booking_form_group.title }}:{% endif %}</div>
+    <div class="form-default">
+      <div class="form-group">
+        {% assign fields_list = booking_form_group.fields_list %}
+        {% for field_reference in fields_list.value %}
+        <label class="radio-inline pr-2" for="radios-{{ forloop.index0 }}"><input type="radio" class="form-control mr-1" name="properties[{{ properties_name }}]" id="radios-{{ forloop.index0 }}" {%- if forloop.first == true -%} checked="checked"{%- endif %} value="{{ field_reference.field_value }}">{{ field_reference.field_value }}</label>
+        {%- endfor -%}
+      </div>
+    </div>
+  </div>
+{% endif %}
+{%- endfor -%}
+{% endif %}
+
+<div class="tt-wrapper">
+  <div class="tt-title-options">{{ pickup_address }}:</div>
+  <div class="form-default">
+    <div class="form-group">
+      <input required class="form-control" id="pickup" type="text" name="properties[{{ pickup_address }}]" placeholder="{{ 'products.general.hotel_name_and_address' | t }}">
+    </div>
+  </div>
+</div>
+
+{% capture included_options %}
+<div class="tt-wrapper mb-2 d-flex">
+  <div>
+      <div class="tt-title-options">La excursión:</div>
+      <p class="mt-1" style="line-height: 1;"><small>{{ product.title }}</small></p>
+  </div>
+  <div class="form-default mt-0 ml-auto">
+    <div class="form-group mb-0">
+      <div class="tt-price ml-auto text-right">
+        {%- if sale_on -%}
+          <span class="sale-price mr-0 d-block" style="font-size:initial;line-height:initial;font-weight:initial;">{{ product.selected_or_first_available_variant.price | money }}</span>
+          <span class="old-price d-block" style="font-size:initial;line-height:1;font-weight:initial;">{{ product.selected_or_first_available_variant.compare_at_price | money }}</span>
+          {%- else -%}
+          <span class="new-price mr-0 d-block" style="font-size:initial;line-height:initial;font-weight:initial;">{{ product.selected_or_first_available_variant.price | money }}</span>
+          <span class="old-price d-block" style="font-size:initial;line-height:1;font-weight:initial;"></span>
+        {%- endif -%}
+      </div>
+    </div>
+  </div>
+</div>
+<div class="tt-wrapper border-top pt-2 mb-2 d-flex">
+  <div> 
+    <div class="tt-title-options">Paseo en camello: </div>
+    <p class="mt-1" style="line-height: 1;"><small>Paseo en camello al anochecer y amanecer.</small></p>
+  </div>
+  <div class="form-default mt-0 ml-auto">
+    <div class="form-group mb-0">
+      <mark>Gratis</mark>
+    </div>
+  </div>
+</div>
+<div class="tt-wrapper border-top border-bottom py-2 mb-2 d-flex">
+  <div>
+      <div class="tt-title-options">Sandboarding:</div>
+      <p class="mt-1" style="line-height: 1;"><small>Pide las tablas a los chicos del campamento.</small></p>
+  </div>
+  <div class="form-default mt-0 ml-auto">
+    <div class="form-group mb-0">
+      <mark>Gratis</mark>
+    </div>
+  </div>
+</div>
+{% endcapture %}
+{% assign tour_kech = 7763158106326 %}
+{% assign tour_fez = 7763343966422 %}
+{% if product.id == tour_kech %}
+  {{ included_options }}
+{% elsif product.id == tour_fez %}
+  {{ included_options }}
+{% endif %}

@@ -1,0 +1,62 @@
+{%- assign product_regimen = product.metafields.details.regimen -%}
+
+<div class="tourdetails pt-5" id="tourdetails">
+  <div class="row">
+    <div class="col-12">
+      <h2 class="tt-title mb-3"><div class="tour-title-">{{ 'products.general.about_this_tour' | t }}</div></h2>
+    </div>
+  </div>
+  <div class="row">
+  {% for block in section.blocks %}  
+    {% case block.type %}
+      {% when 'product_details' %}
+        {%- if product.metafields.details.duration != blank -%}
+        <div class="col-6 col-sm-4 d-flex mb-4">
+          <div class="d-flex p-3 border rounded w-100">
+            <span class="icon-g-81 mr-2"></span>
+            <div>{{ 'products.general.duration' | t }} <br><strong>{{ product.metafields.details.duration }}</strong></div>
+          </div>
+        </div>
+        {%- endif -%}
+        {%- if product.metafields.details.from != blank -%}
+        <div class="col-6 col-sm-4 d-flex mb-4">
+          <div class="d-flex p-3 border rounded w-100">
+            <span class="icon-g-35 mr-2"></span>
+            <div>{{ 'products.general.departure' | t }} <br><strong>{{ product.metafields.details.from }}</strong></div>
+          </div>
+        </div>
+        {%- endif -%}
+        {%- if product.metafields.details.to_ != blank -%}
+        <div class="col-6 col-sm-4 d-flex mb-4">
+          <div class="d-flex p-3 border rounded w-100">
+            <span class="icon-g-34 mr-2"></span>
+            <div>{{ 'products.general.arrival' | t }} <br><strong>{{ product.metafields.details.to_ }}</strong></div>
+          </div>
+        </div>
+        {%- endif -%}
+        {%- if product.type != blank -%}
+        <div class="col-6 col-sm-4 d-flex mb-4">
+          <div class="d-flex p-3 border rounded w-100">
+            <span class="icon-g-33 mr-2"></span>
+            <div>{{ 'products.general.tour_type' | t }} <br><strong>{{ product.type }}</strong></div>
+          </div>
+        </div>
+        {%- endif -%}
+        {%- if product_regimen != blank -%}
+        <div class="col-6 col-sm-4 d-flex mb-4">
+          <div class="d-flex p-3 border rounded w-100">
+            <span class="icon-g-82 mr-2"></span>
+            <div>Régimen <br><strong>{{ product_regimen }}</strong></div>
+          </div>
+        </div>
+        {%- endif -%}
+        <div class="col-6 col-sm-4 d-flex mb-4">
+          <div class="d-flex p-3 border rounded w-100">
+            <span class="icon-g-59 mr-2"></span>
+            <div>{{ 'products.general.pickup' | t }} <br><strong>{{ 'products.general.included' | t }}</strong></div>
+          </div>
+        </div>
+    {% endcase %} 
+  {% endfor %}
+  </div>
+</div>

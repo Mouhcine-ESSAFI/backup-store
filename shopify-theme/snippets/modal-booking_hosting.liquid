@@ -1,0 +1,26 @@
+<div class="modal fade"  id="modalHostingGallery" tabindex="-1" role="dialog" aria-label="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content ">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><span class="icon icon-clear"></span></button>
+      </div>
+      <div class="modal-body">
+        <div class="tt-layout-product-info-02">
+          <ul class="m-0 p-0" style="list-style:none">
+            {% for booking_hosting in product_booking.value -%}
+              <li class="mb-5">
+                <div class="d-flex mb-2"><span class="tt-title">{{ booking_hosting.name }}</span><a class="popup-link ml-auto d-none" onclick="return false" href="#">Elige este campamento</a></div>
+
+                <div class="camp-gallery arrow-location-tab slick-animated-show-js">
+                  {% for image in booking_hosting.gallery.value -%}
+                    <div class=""><img src="{{ image.image | img_url: 'medium' }}" alt="{{ image.alt }}" class="rounded-corner px-1" /></div>
+                  {%- endfor %}
+                </div>
+              </li>
+            {%- endfor %}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

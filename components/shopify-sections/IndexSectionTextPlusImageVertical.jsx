@@ -1,0 +1,1349 @@
+// components/shopify-sections/IndexSectionTextPlusImageVertical.jsx
+// Converted from Shopify section: index-section-text_plus_image_vertical
+
+'use client';
+import Image from 'next/image';
+
+export default function IndexSectionTextPlusImageVertical({ settings, data }) {
+  // Settings from Shopify:
+  // Top Offset: select
+  // Fullwidth size: checkbox
+  // undefined: header
+  // Content align: select
+  // Text align: select
+  // Big column size for screen > 1024px: range
+  // Medium column size for screen > 791px: range
+  // undefined: header
+  // Button background color: color
+  // Button text color: color
+  // Button background active color: color
+  // Button text active color: color
+  // Button custom styles: textarea
+  // HOVER. Button custom styles: textarea
+  // undefined: header
+  // Use background color or padding: checkbox
+  // Background color: color
+  // Vertical top padding desktop: text
+  // Vertical bottom padding desktop: text
+  // Vertical top padding mobile: text
+  // Vertical bottom padding mobile: text
+  // undefined: paragraph
+  // Show background image: checkbox
+  // Image: image_picker
+  // Image postion: select
+  // Image size: select
+  // Use minimal height: checkbox
+  // Min height for big screen size: text
+  // Min height for medium screen size: text
+  // Min height for mobile screen size: text
+
+  return (
+    <>
+      {%- assign item = section.settings -%}
+<div className="{item.top_offset == 'none' && (nomargin {% elsif item.top_offset == 'small' %}tt-offset-small )}container-indent tpivsection{section.id}">
+  {item.usebgcolor && (<div{item.showbgimage && ( style="background-image: url({{ item.image | img_url: '2048x' }});")}>)}
+  <div className="container{item.fullwidth && (-fluid)} mobile-add-paddings">
+    <div className="row {item.contentalign}">
+      <div className="col-md-{item.mdsize} col-lg-{item.lgsize} text-{item.textalign}">
+        <div className="tt-layout-box03">
+          {%- for block in section.blocks -%}
+          {%- assign b_i = block.settings -%}
+          {%- case block.type -%}
+          {%- when 'image' -%}
+
+          <div className="blid{block.id}{b_i.itemtype == "image" && ( respimgsize)}">
+            {%- case b_i.itemtype -%}
+            {%- when 'video' -%}
+            <div className="tt-video-block">
+              <a href="#" className="link-video"></a>
+              <video className="movie" src="{b_i.videolink}"
+                     poster="{{ b_i.image | img_url: '1200x' }}"></video>
+            </div>
+            {%- when 'youtubevideo' -%}
+            <div className="embed-responsive embed-responsive-16by9">
+              <iframe className="embed-responsive-item" src="{b_i.videolink}" allowfullscreen></iframe>
+            </div>
+            {%- else -%}
+            {%- if b_i.image == blank -%}{%- include "get_svg" type:'image' size:'1170x450px' -%}
+            {%- else -%}
+            <img className="lazyload"
+                 data-mainimage="{{ b_i.image | img_url: '100x100' | replace: '100x100', 'respimgsize' }}"
+                 alt="{{ b_i.image.alt }}">
+            {%- endif -%}
+            {%- endcase -%}
+          </div>
+
+          {%- when 'title' -%}
+          <h2 className="tt-title blid{block.id}{b_i.textalign != "default" && ( text-{b_i.textalign})}">{b_i.text}</h2>
+          {%- when 'text' -%}
+          {%- if b_i.usetextcolumns -%}
+          <div className="row{b_i.textalign != "default" && ( text-{b_i.textalign})} blid{block.id}">
+            <div className="text1color col-12 col-sm-{{ b_i.columnswidth | split: "_" | first | split: "." | first }} col-lg-{{ b_i.columnswidth | split: "_" | first | split: "." | last }} blidfirstcol">
+              {b_i.usetextastitle && (<h2 className="customtitle">)}
+              {b_i.text}
+              {b_i.usetextastitle && (</h2>)}
+            </div>
+            <div className="text2color col-12 col-sm-{{ b_i.columnswidth | split: "_" | last | split: "." | first }} col-lg-{{ b_i.columnswidth | split: "_" | last | split: "." | last }} blidsecondcol">
+              {b_i.text2}
+            </div>
+          </div>
+          {%- else -%}
+          <div className="text1color blid{block.id}{b_i.textalign != "default" && ( text-{b_i.textalign})}">{b_i.text}</div>
+          {%- endif -%}
+          {%- when 'button' -%}
+          {b_i.columnswidth != 'none' && (
+          <div className="row {b_i.textalign != "default" && ( text-{b_i.textalign})} blid{block.id} {b_i.contentalign}">
+            <div className="col-12 col-sm-{{ b_i.columnswidth | split: "." | first }} col-lg-{{ b_i.columnswidth | split: "." | last }}">
+              <a href="{b_i.btnurl}"
+                 className="btn"
+                 style="background:{item.bg_color}; color:{item.cbtntext};" data-bgc="{item.bg_color}" data-abgc="{item.bg_color_a}" data-c="{item.cbtntext}" data-ac="{item.cbtntext_a}" data-hovercolors
+                 >{b_i.btnname}</a>
+            </div>
+          </div>
+          {% else %}
+          <div className="{b_i.textalign != "default" && ( text-{b_i.textalign})} blid{block.id}">
+          <a href="{b_i.btnurl}"
+             className="btn"
+             style="background:{item.bg_color}; color:{item.cbtntext};" data-bgc="{item.bg_color}" data-abgc="{item.bg_color_a}" data-c="{item.cbtntext}" data-ac="{item.cbtntext_a}" data-hovercolors
+             >{b_i.btnname}</a>
+          </div>
+          )}
+          {%- when 'buttonlink' -%}
+          {b_i.columnswidth != 'none' && (
+          <div className="row {b_i.textalign != "default" && ( text-{b_i.textalign})} blid{block.id} {b_i.contentalign}">
+            <div className="col-12 col-sm-{{ b_i.columnswidth | split: "." | first }} col-lg-{{ b_i.columnswidth | split: "." | last }}">
+              <a href="{b_i.btnurl}"
+                 className="hover-underline{b_i.underlinebydefault && ( underlinebydefault)}"
+                 >{b_i.btnname}</a>
+            </div>
+          </div>
+          {% else %}
+          <div className="{b_i.textalign != "default" && ( text-{b_i.textalign})} blid{block.id}">
+          <a href="{b_i.btnurl}"
+             className="hover-underline{b_i.underlinebydefault && ( underlinebydefault)}"
+             >{b_i.btnname}</a>
+          </div>
+          )}
+          {%- endcase -%}
+
+          {%- endfor -%}
+        </div>
+      </div>
+    </div>
+  </div>
+  {item.usebgcolor && (</div>)}
+</div>
+
+<style>
+  {item.usebgcolor && (
+  .tpivsection{section.id} > div{
+    background-color: {item.bgco};
+    background-repeat: no-repeat;
+    background-size: {item.imagesize};
+    background-position: {item.imagealign};
+  }
+  
+  @media (min-width: 1025px){
+    .tpivsection{section.id} > div{
+      padding-top: {item.bgdepad}px;
+      padding-bottom: {item.bgdepad_2}px;
+    }
+  }
+  @media (max-width: 1024px){
+    .tpivsection{section.id} > div{
+      padding-top: {item.bgmopad}px;
+      padding-bottom: {item.bgmopad_2}px;
+    }
+  }
+  {item.usemiheight && (
+  @media (min-width: 791px){
+    .tpivsection{section.id} > div > div > .row{
+      align-items: center;
+      min-height: {item.backgroundminheight2}px;
+    }
+  }
+  @media (min-width: 1200px){
+    .tpivsection{section.id} > div > div > .row{
+      align-items: center;
+      min-height: {item.backgroundminheight3}px;
+    }
+  }
+  @media (max-width: 790px){
+    .tpivsection{section.id} > div > div > .row{
+      align-items: center;
+      min-height: {item.backgroundminheight1}px;
+    }
+  }
+  )}
+
+  )}
+
+  
+  {%- for block in section.blocks -%}
+  {%- assign b_i = block.settings -%}
+  {%- case block.type -%}
+  {%- when 'image' -%}
+  @media (min-width: 1025px){
+    .tpivsection{section.id} .blid{block.id}{
+      margin-top: {b_i.toppadding}px;
+    }
+  }
+  @media (max-width: 1024px){
+    .tpivsection{section.id} .blid{block.id}{
+      margin-top: {b_i.toppadding_mobile}px;
+    }
+  }
+  {%- when 'title' -%}
+  .tpivsection{section.id} .tt-title.blid{block.id}{
+    color: {b_i.colortext1};
+  }
+  .tpivsection{section.id} .tt-title.blid{block.id}{
+    font-weight: {b_i.fontweighttext};
+  }
+  @media (min-width: 1025px){
+    .tpivsection{section.id} .tt-title.blid{block.id}{
+      margin-top: {{ b_i.toppadding | times: b_i.toppaddingmulti }}px;
+      font-size: {b_i.fontsizetext}px;
+      line-height: {b_i.lineheighttext}px;
+    }
+  }
+  @media (max-width: 1024px){
+    .tpivsection{section.id} .tt-title.blid{block.id}{
+      margin-top: {b_i.toppadding_mobile}px;
+      font-size: {b_i.fontsizetext_mobile}px;
+      line-height: {b_i.lineheighttext_mobile}px;
+    }
+  }
+  {%- when 'text' -%}
+  .tpivsection{section.id} .blid{block.id} .customtitle,
+  .tpivsection{section.id} .tt-layout-box03 .blid{block.id} .text1color,
+  .tpivsection{section.id} .tt-layout-box03 .blid{block.id}.text1color{
+    color: {b_i.colortext1};
+  }
+  .tpivsection{section.id} .tt-layout-box03 .blid{block.id} .text2color{
+    color: {b_i.colortext2};
+  }
+  .tpivsection{section.id} .tt-layout-box03 .blid{block.id},
+  .tpivsection{section.id} .tt-layout-box03 .blid{block.id} h2.customtitle{
+    font-weight: {b_i.fontweighttext};
+  }
+  @media (min-width: 1025px){
+    .tpivsection{section.id} .tt-layout-box03 .blid{block.id}{
+      margin-top: {{ b_i.toppadding | times: b_i.toppaddingmulti }}px;
+    }
+    .tpivsection{section.id} .tt-layout-box03 .blid{block.id},
+    .tpivsection{section.id} .tt-layout-box03 .blid{block.id} h2.customtitle{
+      font-size: {b_i.fontsizetext}px;
+      line-height: {b_i.lineheighttext}px;
+    }
+  }
+  @media (max-width: 1024px){
+    .tpivsection{section.id} .tt-layout-box03 .blid{block.id}{
+      margin-top: {b_i.toppadding_mobile}px;
+    }
+    .tpivsection{section.id} .tt-layout-box03 .blid{block.id},
+    .tpivsection{section.id} .tt-layout-box03 .blid{block.id} h2.customtitle{
+      font-size: {b_i.fontsizetext_mobile}px;
+      line-height: {b_i.lineheighttext_mobile}px;
+    }
+  }
+  
+  .tpivsection{section.id} .tt-layout-box03 .blid{block.id} .blidsecondcol{
+    font-weight: {b_i.fontweighttext2};
+  }
+  @media (min-width: 1025px){
+    .tpivsection{section.id} .tt-layout-box03 .blid{block.id} .blidsecondcol{
+      font-size: {b_i.fontsizetext2}px;
+      line-height: {b_i.lineheighttext2}px;
+    }
+  }
+  @media (max-width: 1024px){
+    .tpivsection{section.id} .tt-layout-box03 .blid{block.id} .blidsecondcol{
+      font-size: {b_i.fontsizetext_mobile2}px;
+      line-height: {b_i.lineheighttext_mobile2}px;
+    }
+  }
+  .tpivsection{section.id} .tt-layout-box03 .blid{block.id} .blidsecondcol{
+    margin-top: {b_i.correction}px;
+  }
+  @media (max-width: 576px){
+    .tpivsection{section.id} .tt-layout-box03 .blid{block.id} .blidsecondcol{
+      margin-top: 30px;
+    }
+  }
+  
+  {%- when 'button' -%}
+  @media (min-width: 1025px){
+    .tpivsection{section.id} .tt-layout-box03 .blid{block.id}{
+      margin-top: {b_i.toppadding}px;
+    }
+  }
+  @media (max-width: 1024px){
+    .tpivsection{section.id} .tt-layout-box03 .blid{block.id}{
+      margin-top: {b_i.toppadding_mobile}px;
+    }
+  }
+  
+  {%- when 'buttonlink' -%}
+  .tpivsection{section.id} .tt-layout-box03 .blid{block.id} a{
+    font-size: {b_i.fontsizetext}px;
+    line-height: {b_i.fontsizetext}px;
+    font-weight: {b_i.fontweighttext};
+    color: {b_i.color};
+    -webkit-transition: color .2s ease-out;
+    transition: color .2s ease-out;
+  }
+  .tpivsection{section.id} .tt-layout-box03 .blid{block.id} a.hover-underline:before{
+    background: {b_i.color_a};
+    bottom: -1px;
+  }
+  .tpivsection{section.id} .tt-layout-box03 .blid{block.id} a.hover-underline.underlinebydefault:before{
+    width: 100%;
+    background: {b_i.color};
+    -webkit-transition: all .3s ease-out;
+    transition: all .3s ease-out;
+  }
+  .tpivsection{section.id} .tt-layout-box03 .blid{block.id} a:hover{
+    color: {b_i.color_a};
+  }
+  .tpivsection{section.id} .tt-layout-box03 .blid{block.id} a.hover-underline.underlinebydefault:hover:before{
+    width: 0%;
+    background: {b_i.color_a};
+  }
+  
+  @media (min-width: 1025px){
+    .tpivsection{section.id} .tt-layout-box03 .blid{block.id}{
+      margin-top: {b_i.toppadding}px;
+    }
+  }
+  @media (max-width: 1024px){
+    .tpivsection{section.id} .tt-layout-box03 .blid{block.id}{
+      margin-top: {b_i.toppadding_mobile}px;
+    }
+  }
+  
+  {%- endcase -%}
+
+  {%- endfor -%}
+  
+  {item.btn_custom_styles != '' && (
+  .tpivsection{section.id} .tt-layout-box03 .btn{
+    {item.btn_custom_styles}
+  }
+  )}
+  {item.btn_custom_styles_hover != '' && (
+  .tpivsection{section.id} .tt-layout-box03 .btn:hover{
+    {item.btn_custom_styles_hover}
+  }
+  )}
+</style>
+    </>
+  );
+}
+
+// Schema from Shopify
+export const schema = {
+  "name": "Text Plus Image Vertical",
+  "settings": [
+    {
+      "type": "select",
+      "id": "top_offset",
+      "label": "Top Offset",
+      "default": "normal",
+      "options": [
+        {
+          "value": "none",
+          "label": "None"
+        },
+        {
+          "value": "small",
+          "label": "Small"
+        },
+        {
+          "value": "normal",
+          "label": "Normal"
+        }
+      ]
+    },
+    {
+      "type": "checkbox",
+      "id": "fullwidth",
+      "label": "Fullwidth size",
+      "default": false
+    },
+    {
+      "type": "header",
+      "content": "Settings"
+    },
+    {
+      "type": "select",
+      "id": "contentalign",
+      "label": "Content align",
+      "default": "justify-content-center",
+      "options": [
+        {
+          "value": "justify-content-start",
+          "label": "Left"
+        },
+        {
+          "value": "justify-content-center",
+          "label": "Center"
+        },
+        {
+          "value": "justify-content-end",
+          "label": "Right"
+        }
+      ]
+    },
+    {
+      "type": "select",
+      "id": "textalign",
+      "label": "Text align",
+      "default": "center",
+      "options": [
+        {
+          "value": "left",
+          "label": "Left"
+        },
+        {
+          "value": "center",
+          "label": "Center"
+        },
+        {
+          "value": "right",
+          "label": "Right"
+        }
+      ]
+    },
+    {
+      "type": "range",
+      "id": "lgsize",
+      "min": 4,
+      "max": 12,
+      "step": 1,
+      "label": "Big column size for screen > 1024px",
+      "default": 8
+    },
+    {
+      "type": "range",
+      "id": "mdsize",
+      "min": 4,
+      "max": 12,
+      "step": 1,
+      "label": "Medium column size for screen > 791px",
+      "default": 10
+    },
+    {
+      "type": "header",
+      "content": "Colors"
+    },
+    {
+      "type": "color",
+      "id": "bg_color",
+      "label": "Button background color",
+      "default": "#191919"
+    },
+    {
+      "type": "color",
+      "id": "cbtntext",
+      "label": "Button text color",
+      "default": "#ffffff"
+    },
+    {
+      "type": "color",
+      "id": "bg_color_a",
+      "label": "Button background active color",
+      "default": "#ffffff"
+    },
+    {
+      "type": "color",
+      "id": "cbtntext_a",
+      "label": "Button text active color",
+      "default": "#191919"
+    },
+    {
+      "type": "textarea",
+      "id": "btn_custom_styles",
+      "label": "Button custom styles",
+      "info": "not for \"Underline by default\""
+    },
+    {
+      "type": "textarea",
+      "id": "btn_custom_styles_hover",
+      "label": "HOVER. Button custom styles",
+      "info": "not for \"Underline by default\""
+    },
+    {
+      "type": "header",
+      "content": "Background Settings"
+    },
+    {
+      "type": "checkbox",
+      "id": "usebgcolor",
+      "label": "Use background color or padding",
+      "default": false
+    },
+    {
+      "type": "color",
+      "id": "bgco",
+      "label": "Background color",
+      "default": "#ffffff"
+    },
+    {
+      "type": "text",
+      "id": "bgdepad",
+      "label": "Vertical top padding desktop",
+      "default": "80",
+      "info": "integer, in px"
+    },
+    {
+      "type": "text",
+      "id": "bgdepad_2",
+      "label": "Vertical bottom padding desktop",
+      "default": "80",
+      "info": "integer, in px"
+    },
+    {
+      "type": "text",
+      "id": "bgmopad",
+      "label": "Vertical top padding mobile",
+      "default": "80",
+      "info": "integer, in px"
+    },
+    {
+      "type": "text",
+      "id": "bgmopad_2",
+      "label": "Vertical bottom padding mobile",
+      "default": "80",
+      "info": "integer, in px"
+    },
+    {
+      "type": "paragraph",
+      "content": "Background image"
+    },
+    {
+      "type": "checkbox",
+      "id": "showbgimage",
+      "label": "Show background image",
+      "default": false
+    },
+    {
+      "type": "image_picker",
+      "id": "image",
+      "label": "Image"
+    },
+    {
+      "type": "select",
+      "id": "imagealign",
+      "label": "Image postion",
+      "default": "center",
+      "options": [
+        {
+          "value": "top",
+          "label": "Top"
+        },
+        {
+          "value": "center",
+          "label": "Center"
+        },
+        {
+          "value": "bottom",
+          "label": "Bottom"
+        }
+      ]
+    },
+    {
+      "type": "select",
+      "id": "imagesize",
+      "label": "Image size",
+      "default": "cover",
+      "options": [
+        {
+          "value": "cover",
+          "label": "Full background size"
+        },
+        {
+          "value": "contain",
+          "label": "Contain"
+        }
+      ]
+    },
+    {
+      "type": "checkbox",
+      "id": "usemiheight",
+      "label": "Use minimal height",
+      "default": false
+    },
+    {
+      "type": "text",
+      "id": "backgroundminheight3",
+      "label": "Min height for big screen size",
+      "default": "450",
+      "info": "integer, in px"
+    },
+    {
+      "type": "text",
+      "id": "backgroundminheight2",
+      "label": "Min height for medium screen size",
+      "default": "450",
+      "info": "integer, in px"
+    },
+    {
+      "type": "text",
+      "id": "backgroundminheight1",
+      "label": "Min height for mobile screen size",
+      "default": "200",
+      "info": "integer, in px"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "title",
+      "name": "Title",
+      "settings": [
+        {
+          "type": "textarea",
+          "id": "text",
+          "label": "Text",
+          "default": "Text"
+        },
+        {
+          "type": "color",
+          "id": "colortext1",
+          "label": "Text color",
+          "default": "#191919"
+        },
+        {
+          "type": "select",
+          "id": "textalign",
+          "label": "Text align",
+          "default": "default",
+          "options": [
+            {
+              "value": "default",
+              "label": "Default"
+            },
+            {
+              "value": "left",
+              "label": "Left"
+            },
+            {
+              "value": "center",
+              "label": "Center"
+            },
+            {
+              "value": "right",
+              "label": "Right"
+            }
+          ]
+        },
+        {
+          "type": "range",
+          "id": "fontweighttext",
+          "min": 300,
+          "max": 900,
+          "step": 100,
+          "label": "Font weight text",
+          "default": 700
+        },
+        {
+          "type": "header",
+          "content": "Desktop screen"
+        },
+        {
+          "type": "range",
+          "id": "toppadding",
+          "min": 0,
+          "max": 100,
+          "step": 1,
+          "unit": "px",
+          "label": "Text top offset",
+          "default": 0
+        },
+        {
+          "type": "range",
+          "id": "toppaddingmulti",
+          "min": 1,
+          "max": 3,
+          "step": 1,
+          "label": "Text top offset multiply",
+          "default": 1,
+          "info": "Text top offset * multiply"
+        },
+        {
+          "type": "range",
+          "id": "fontsizetext",
+          "min": 14,
+          "max": 100,
+          "step": 1,
+          "unit": "px",
+          "label": "Font size text",
+          "default": 32
+        },
+        {
+          "type": "range",
+          "id": "lineheighttext",
+          "min": 14,
+          "max": 101,
+          "step": 1,
+          "unit": "px",
+          "label": "Line height text",
+          "default": 51
+        },
+        {
+          "type": "header",
+          "content": "Mobile screen"
+        },
+        {
+          "type": "range",
+          "id": "toppadding_mobile",
+          "min": 0,
+          "max": 100,
+          "step": 1,
+          "unit": "px",
+          "label": "Text top offset",
+          "default": 0
+        },
+        {
+          "type": "range",
+          "id": "fontsizetext_mobile",
+          "min": 14,
+          "max": 50,
+          "step": 1,
+          "unit": "px",
+          "label": "Font size text",
+          "default": 32
+        },
+        {
+          "type": "range",
+          "id": "lineheighttext_mobile",
+          "min": 14,
+          "max": 101,
+          "step": 1,
+          "unit": "px",
+          "label": "Line height text",
+          "default": 51
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "name": "Text",
+      "settings": [
+        {
+          "type": "color",
+          "id": "colortext1",
+          "label": "Text 1 color",
+          "default": "#777777"
+        },
+        {
+          "type": "color",
+          "id": "colortext2",
+          "label": "Text 2 color",
+          "default": "#777777"
+        },
+        {
+          "type": "checkbox",
+          "id": "usetextcolumns",
+          "label": "Use text with 2 columns",
+          "default": false
+        },
+        {
+          "type": "select",
+          "id": "columnswidth",
+          "label": "Columns width",
+          "default": "6.6_6.6",
+          "options": [
+            {
+              "value": "5.4_7.8",
+              "label": "4 / 8"
+            },
+            {
+              "value": "5.5_7.7",
+              "label": "5 / 7"
+            },
+            {
+              "value": "6.6_6.6",
+              "label": "6 / 6"
+            },
+            {
+              "value": "7.7_5.5",
+              "label": "7 / 5"
+            },
+            {
+              "value": "7.8_5.4",
+              "label": "8 / 4"
+            }
+          ]
+        },
+        {
+          "type": "select",
+          "id": "textalign",
+          "label": "Text align",
+          "default": "default",
+          "options": [
+            {
+              "value": "default",
+              "label": "Default"
+            },
+            {
+              "value": "left",
+              "label": "Left"
+            },
+            {
+              "value": "center",
+              "label": "Center"
+            },
+            {
+              "value": "right",
+              "label": "Right"
+            }
+          ]
+        },
+        {
+          "type": "checkbox",
+          "id": "usetextastitle",
+          "label": "Use text 1 as title(H2 html tag)",
+          "default": false
+        },
+        {
+          "type": "textarea",
+          "id": "text",
+          "label": "Text 1(Default)",
+          "default": "Text"
+        },
+        {
+          "type": "range",
+          "id": "fontweighttext",
+          "min": 300,
+          "max": 900,
+          "step": 100,
+          "label": "Font weight text",
+          "default": 400
+        },
+        {
+          "type": "header",
+          "content": "Desktop screen"
+        },
+        {
+          "type": "range",
+          "id": "toppadding",
+          "min": 0,
+          "max": 100,
+          "step": 1,
+          "unit": "px",
+          "label": "Text top offset",
+          "default": 0
+        },
+        {
+          "type": "range",
+          "id": "toppaddingmulti",
+          "min": 1,
+          "max": 3,
+          "step": 1,
+          "label": "Text top offset multiply",
+          "default": 1,
+          "info": "Text top offset * multiply"
+        },
+        {
+          "type": "range",
+          "id": "fontsizetext",
+          "min": 14,
+          "max": 100,
+          "step": 1,
+          "unit": "px",
+          "label": "Font size text",
+          "default": 16
+        },
+        {
+          "type": "range",
+          "id": "lineheighttext",
+          "min": 14,
+          "max": 101,
+          "step": 1,
+          "unit": "px",
+          "label": "Line height text",
+          "default": 24
+        },
+        {
+          "type": "header",
+          "content": "Mobile screen"
+        },
+        {
+          "type": "range",
+          "id": "toppadding_mobile",
+          "min": 0,
+          "max": 100,
+          "step": 1,
+          "unit": "px",
+          "label": "Text top offset",
+          "default": 0
+        },
+        {
+          "type": "range",
+          "id": "fontsizetext_mobile",
+          "min": 14,
+          "max": 50,
+          "step": 1,
+          "unit": "px",
+          "label": "Font size text",
+          "default": 16
+        },
+        {
+          "type": "range",
+          "id": "lineheighttext_mobile",
+          "min": 14,
+          "max": 101,
+          "step": 1,
+          "unit": "px",
+          "label": "Line height text",
+          "default": 24
+        },
+        {
+          "type": "header",
+          "content": "Text 2 Settings"
+        },
+        {
+          "type": "textarea",
+          "id": "text2",
+          "label": "Text 2(Optional)",
+          "default": "Text 2"
+        },
+        {
+          "type": "range",
+          "id": "correction",
+          "min": -50,
+          "max": 50,
+          "step": 1,
+          "label": "Corrent text 2 position by vertical",
+          "default": 0
+        },
+        {
+          "type": "range",
+          "id": "fontweighttext2",
+          "min": 300,
+          "max": 900,
+          "step": 100,
+          "label": "Font weight text",
+          "default": 400
+        },
+        {
+          "type": "header",
+          "content": "Desktop screen"
+        },
+        {
+          "type": "range",
+          "id": "fontsizetext2",
+          "min": 14,
+          "max": 100,
+          "step": 1,
+          "unit": "px",
+          "label": "Font size text",
+          "default": 16
+        },
+        {
+          "type": "range",
+          "id": "lineheighttext2",
+          "min": 14,
+          "max": 101,
+          "step": 1,
+          "unit": "px",
+          "label": "Line height text",
+          "default": 24
+        },
+        {
+          "type": "header",
+          "content": "Mobile screen"
+        },
+        {
+          "type": "range",
+          "id": "fontsizetext_mobile2",
+          "min": 14,
+          "max": 50,
+          "step": 1,
+          "unit": "px",
+          "label": "Font size text",
+          "default": 16
+        },
+        {
+          "type": "range",
+          "id": "lineheighttext_mobile2",
+          "min": 14,
+          "max": 101,
+          "step": 1,
+          "unit": "px",
+          "label": "Line height text",
+          "default": 24
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "name": "Image or Video",
+      "settings": [
+        {
+          "type": "select",
+          "id": "itemtype",
+          "label": "Item is",
+          "default": "image",
+          "options": [
+            {
+              "value": "image",
+              "label": "Image"
+            },
+            {
+              "value": "video",
+              "label": "Video"
+            },
+            {
+              "value": "youtubevideo",
+              "label": "Youtube video"
+            }
+          ]
+        },
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image",
+          "info": "Image can be use as image for the custom video"
+        },
+        {
+          "type": "paragraph",
+          "content": "Custom video. Please open settings -> files in shopify admin panel. Upload your video and paste url with video in the \"Video link\" text field below"
+        },
+        {
+          "type": "paragraph",
+          "content": "Custom video. Please paste image in the field \"Image\" above"
+        },
+        {
+          "type": "paragraph",
+          "content": "Youtuve video. Please create embed youtube video and paste in the \"Video link\". [Help link](https://www.youtube.com/watch?v=VFy5eyZIULo&list=PLjvK4DAxOmmVqXYUbOFUTqdl0b7pg7gN1)"
+        },
+        {
+          "type": "textarea",
+          "id": "videolink",
+          "label": "Video url"
+        },
+        {
+          "type": "header",
+          "content": "Desktop screen"
+        },
+        {
+          "type": "range",
+          "id": "toppadding",
+          "min": 0,
+          "max": 100,
+          "step": 1,
+          "unit": "px",
+          "label": "Image top offset",
+          "default": 25
+        },
+        {
+          "type": "header",
+          "content": "Mobile screen"
+        },
+        {
+          "type": "range",
+          "id": "toppadding_mobile",
+          "min": 0,
+          "max": 100,
+          "step": 1,
+          "unit": "px",
+          "label": "Image top offset",
+          "default": 25
+        }
+      ]
+    },
+    {
+      "type": "button",
+      "name": "Button",
+      "settings": [
+        {
+          "type": "url",
+          "id": "btnurl",
+          "label": "Button link"
+        },
+        {
+          "type": "text",
+          "id": "btnname",
+          "label": "Button Name",
+          "default": "READ MORE"
+        },
+        {
+          "type": "select",
+          "id": "columnswidth",
+          "label": "Columns width",
+          "default": "none",
+          "options": [
+            {
+              "value": "none",
+              "label": "Default"
+            },
+            {
+              "value": "7.8",
+              "label": "8"
+            },
+            {
+              "value": "7.7",
+              "label": "7"
+            },
+            {
+              "value": "6.6",
+              "label": "6"
+            },
+            {
+              "value": "5.5",
+              "label": "5"
+            },
+            {
+              "value": "5.4",
+              "label": "4"
+            }
+          ]
+        },
+        {
+          "type": "select",
+          "id": "contentalign",
+          "label": "Content align",
+          "info": "Work with \"Column width\"",
+          "default": "justify-content-center",
+          "options": [
+            {
+              "value": "justify-content-start",
+              "label": "Left"
+            },
+            {
+              "value": "justify-content-center",
+              "label": "Center"
+            },
+            {
+              "value": "justify-content-end",
+              "label": "Right"
+            }
+          ]
+        },
+        {
+          "type": "select",
+          "id": "textalign",
+          "label": "Button align",
+          "default": "default",
+          "options": [
+            {
+              "value": "default",
+              "label": "Default"
+            },
+            {
+              "value": "left",
+              "label": "Left"
+            },
+            {
+              "value": "center",
+              "label": "Center"
+            },
+            {
+              "value": "right",
+              "label": "Right"
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "content": "Desktop screen"
+        },
+        {
+          "type": "range",
+          "id": "toppadding",
+          "min": 0,
+          "max": 100,
+          "step": 1,
+          "unit": "px",
+          "label": "Button top offset",
+          "default": 25
+        },
+        {
+          "type": "header",
+          "content": "Mobile screen"
+        },
+        {
+          "type": "range",
+          "id": "toppadding_mobile",
+          "min": 0,
+          "max": 100,
+          "step": 1,
+          "unit": "px",
+          "label": "Button top offset",
+          "default": 25
+        }
+      ]
+    },
+    {
+      "type": "buttonlink",
+      "name": "Button Link",
+      "settings": [
+        {
+          "type": "url",
+          "id": "btnurl",
+          "label": "Button link"
+        },
+        {
+          "type": "text",
+          "id": "btnname",
+          "label": "Button Name",
+          "default": "READ MORE"
+        },
+        {
+          "type": "checkbox",
+          "id": "underlinebydefault",
+          "label": "Underline by default",
+          "default": true
+        },
+        {
+          "type": "select",
+          "id": "columnswidth",
+          "label": "Columns width",
+          "default": "none",
+          "options": [
+            {
+              "value": "none",
+              "label": "Default"
+            },
+            {
+              "value": "7.8",
+              "label": "8"
+            },
+            {
+              "value": "7.7",
+              "label": "7"
+            },
+            {
+              "value": "6.6",
+              "label": "6"
+            },
+            {
+              "value": "5.5",
+              "label": "5"
+            },
+            {
+              "value": "5.4",
+              "label": "4"
+            }
+          ]
+        },
+        {
+          "type": "select",
+          "id": "contentalign",
+          "label": "Content align",
+          "info": "Work with \"Column width\"",
+          "default": "justify-content-center",
+          "options": [
+            {
+              "value": "justify-content-start",
+              "label": "Left"
+            },
+            {
+              "value": "justify-content-center",
+              "label": "Center"
+            },
+            {
+              "value": "justify-content-end",
+              "label": "Right"
+            }
+          ]
+        },
+        {
+          "type": "select",
+          "id": "textalign",
+          "label": "Button align",
+          "default": "default",
+          "options": [
+            {
+              "value": "default",
+              "label": "Default"
+            },
+            {
+              "value": "left",
+              "label": "Left"
+            },
+            {
+              "value": "center",
+              "label": "Center"
+            },
+            {
+              "value": "right",
+              "label": "Right"
+            }
+          ]
+        },
+        {
+          "type": "range",
+          "id": "fontsizetext",
+          "min": 10,
+          "max": 100,
+          "step": 1,
+          "unit": "px",
+          "label": "Font size",
+          "default": 22
+        },
+        {
+          "type": "range",
+          "id": "fontweighttext",
+          "min": 300,
+          "max": 900,
+          "step": 100,
+          "label": "Font weight",
+          "default": 400
+        },
+        {
+          "type": "header",
+          "content": "Desktop screen"
+        },
+        {
+          "type": "range",
+          "id": "toppadding",
+          "min": 0,
+          "max": 100,
+          "step": 1,
+          "unit": "px",
+          "label": "Button top offset",
+          "default": 25
+        },
+        {
+          "type": "header",
+          "content": "Mobile screen"
+        },
+        {
+          "type": "range",
+          "id": "toppadding_mobile",
+          "min": 0,
+          "max": 100,
+          "step": 1,
+          "unit": "px",
+          "label": "Button top offset",
+          "default": 25
+        },
+        {
+          "type": "header",
+          "content": "Colors"
+        },
+        {
+          "type": "color",
+          "id": "color",
+          "label": "Base color",
+          "default": "#191919"
+        },
+        {
+          "type": "color",
+          "id": "color_a",
+          "label": "Hover color",
+          "default": "#777777"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Text Plus Image Vertical",
+      "category": "Simple Section"
+    }
+  ]
+};

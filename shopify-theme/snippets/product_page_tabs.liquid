@@ -1,0 +1,53 @@
+{% comment %}{% if b_i.open_tab_by_default %} active{% endif %}{% endcomment %}
+
+{%- capture html_tabs -%}  
+{%- for block in section.blocks -%}
+{%- assign b_i = block.settings -%}
+{%- case block.type -%}
+  {%- when 'tab_desc' -%}
+    <div class="tt-item py-5">
+      <h2 class="tt-title mb-3"{% if b_i.title == "" %} style="pointer-events: none; padding-bottom: 0px;"{% endif %}>{{ b_i.title }}</h2>
+      <div class="tt-content">{{ product.description }}</div>
+    </div>
+  {%- when 'tab_same_html' -%}
+    <div class="tt-item py-5">
+      <h2 class="tt-title mb-3">{{ b_i.title }}</h2>
+      <div class="tt-content">{{ b_i.html }}</div>
+    </div>
+  {%- when 'tab_plan' -%}
+	{%- if product_meta[b_i.key] != blank -%}
+    <div class="tt-item plan py-5">
+      <h2 class="tt-title mb-3">{{ b_i.title }}</h2>
+      <div class="tt-content">{{ product_meta[b_i.key] }}</div>
+    </div>
+	{%- endif -%}
+  {%- when 'tab_unique' -%}
+	{%- if product_meta[b_i.key] != blank -%}
+    <div class="tt-item {{ b_i.key | downcase | replace: "_", "-" }} {%- if b_i.key == 'Price_Table' -%}pt-5 pb-4{%- else -%}py-5{%- endif -%}">
+      <h2 class="tt-title mb-3">{{ b_i.title }}</h2>
+      <div class="tt-content">
+        {%- if b_i.key == 'Price_Table' -%}
+          <div class="row mb-3 pricedetails">{{ product_meta[b_i.key] }}</div>
+        {%- else -%}
+          {{ product_meta[b_i.key] }}
+        {%- endif -%}
+      </div>
+    </div>
+	{%- endif -%}
+  {%- when 'tab_review' -%}
+	{%- unless settings.selectedreviewaapp == 'alireviewapp' -%}
+	<div id="tab_review" class="tt-item py-5">
+      <h2 class="tt-title mb-3">{{ b_i.title }}</h2>
+      <div class="tt-content">
+        <div id="shopify-product-reviews" data-id="{{product.id}}">{{ product.metafields.spr.reviews }}</div>
+      </div>
+    </div>
+	{%- endunless -%}
+{%- endcase -%}
+{%- endfor -%}
+{%- endcapture -%}
+
+
+{%- if html_tabs != '' -%}
+<div class="tt-block prpage-tabs">{{ html_tabs }}</div>
+{%- endif -%}

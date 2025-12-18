@@ -1,0 +1,63 @@
+{%- if product.available and settings.satc_show -%}
+<div class="tt-fixed-product-wrapper" style="display: none;">
+  <a class="link tt-hidden-desctope whatsapp" href="https://wa.me/212637244350" target="_blank">{% include "svg-whatsapp" %}</a>
+  <div class="container">
+    <div class="tt-fixed-product-inner p-3">
+      <div class="row justify-content-center">
+        <div class="col-6 col-lg-6">
+          <div class="tt-fixed-product">
+            <div class="tt-img">
+              <img src="{{ product.featured_image.src | product_img_url: 'x80' }}" alt="Sticky Image">
+            </div>
+            <div class="tt-description">
+              <h3 class="tt-title">{{ product.title }}</h3>
+              <div class="tt-from-price">
+                <div class="mt-1 text-left">
+                  <div class="d-md-flex">
+                    <div class="fromprice">
+                      {%- if sale_on -%}
+                      <span class="sale-price">{{ product.metafields.details.base_price }}€</span>
+                      <span class="old-price">{{ product.metafields.details.compare_at_base_price }}€</span>
+                      {%- else -%}
+                      <span class="new-price">{{ product.metafields.details.base_price }}€</span>
+                      <span class="old-price"></span>
+                      {%- endif -%}
+                    </div>
+                    {%- if shop.taxes_included or shop.shipping_policy.body != blank -%}
+                    {%- if item.show_tax_text -%}
+                    <div class="tt-product-policies" data-product-policies>
+                      {%- if shop.taxes_included -%}
+                      {{ 'products.product.include_taxes' | t }}
+                      {%- endif -%}
+                      {%- if shop.shipping_policy.body != blank -%}
+                      {{ 'products.product.shipping_policy_html' | t: link: shop.shipping_policy.url }}
+                      {%- endif -%}
+                    </div>
+                    {%- endif -%}
+                    {%- endif -%}
+                    <div class="base-price-person ml-1"> / {{ product.metafields.details.base_price_person }}</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-6 col-lg-6">
+          <div class="tt-row-custom01">
+            <div class="col-item">
+              <a href="#booking" class="btn-lg stickyaddtocart d-none d-md-flex">
+                <span class="icon icon-shopping_basket"></span>
+                <span>{{ 'products.general.select_options' | t }}</span>
+              </a>
+              <a href="#booking-mob" class="btn-lg stickyaddtocart d-flex d-md-none">
+                <span class="icon icon-shopping_basket"></span>
+                <span>{{ 'products.general.select_options' | t }}</span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{%- endif -%}

@@ -1,0 +1,23 @@
+<div class="container-indent{% if section.settings.ct_top_margin %} mt-4{% endif %}">
+  <div class="container">
+    {{ page.content }}
+  </div>
+</div>
+
+{% schema %}
+  {
+    "name": "Page",
+    "settings": [
+      {
+        "type": "header",
+        "content": "General"
+      },
+      {
+        "type": "checkbox",
+        "id": "ct_top_margin",
+        "label": "Disable top margin",
+        "default": true
+      }
+    ]
+  }
+{% endschema %}
