@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://descubredesierto.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://descubredesierto.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://descubredesierto.com/collections/excursiones-compartidas-de-un-dia-desde-marrakech.atom"/>
+  <title>Descubre Desierto</title>
+  <updated>2024-11-28T12:13:06+01:00</updated>
+  <author>
+    <name>Descubre Desierto</name>
+  </author>
+  <entry>
+    <id>https://descubredesierto.com/products/14869223244156</id>
+    <published>2024-11-28T12:13:06+01:00</published>
+    <updated>2024-11-28T12:13:06+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://descubredesierto.com/products/excursion-en-grupo-de-1-dia-desde-fez-a-chefchaouen-ciudad-azul"/>
+    <title>Excursión en grupo de 1 día desde Fez a Chefchaouen - Ciudad Azul</title>
+    <s:type>Compartido</s:type>
+    <s:vendor>Descubre desierto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0654/7836/1302/files/excursion-en-grupo-de-un-dia-desde-fez-a-chefchaouen-ciudad-azul.jpg?v=1732803505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Descubre desierto<br>
+        <strong>Tipo: </strong>Compartido<br>
+        <strong>Precio: </strong>
+            29.00 - 493.00
+            <a href="https://descubredesierto.com/products/excursion-en-grupo-de-1-dia-desde-fez-a-chefchaouen-ciudad-azul">(17 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Disfruta de una excursión de un día desde Fez a Chefchaouen, la "Perla Azul" de las Montañas del Rif. Acompañado por un conductor experto, explorarás los principales sitios de esta encantadora ciudad, famosa por sus casas pintadas de tonos azules y sus estrechas calles adoquinadas que crean un ambiente mágico.</p>
+<p>Sumérgete en la rica cultura, historia y tradiciones locales mientras visitas lugares emblemáticos como la Plaza Uta el-Hammam, la histórica Kasbah y los vibrantes zocos llenos de artesanías. Esta experiencia te permitirá descubrir la esencia de Chefchaouen en un solo día, disfrutando de un viaje cómodo y seguro.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Excursiones Favoritas</s:tag>
+    <s:tag>Tours grupales de un día</s:tag>
+    <s:variant>
+      <id>https://descubredesierto.com/products/14869223244156</id>
+      <title>1</title>
+      <s:price currency="EUR">29.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/14869223244156</id>
+      <title>2</title>
+      <s:price currency="EUR">58.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/14869223244156</id>
+      <title>3</title>
+      <s:price currency="EUR">87.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/14869223244156</id>
+      <title>4</title>
+      <s:price currency="EUR">116.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/14869223244156</id>
+      <title>5</title>
+      <s:price currency="EUR">145.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/14869223244156</id>
+      <title>6</title>
+      <s:price currency="EUR">174.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/14869223244156</id>
+      <title>7</title>
+      <s:price currency="EUR">203.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/14869223244156</id>
+      <title>8</title>
+      <s:price currency="EUR">232.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/14869223244156</id>
+      <title>9</title>
+      <s:price currency="EUR">261.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/14869223244156</id>
+      <title>10</title>
+      <s:price currency="EUR">290.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/14869223244156</id>
+      <title>11</title>
+      <s:price currency="EUR">319.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/14869223244156</id>
+      <title>12</title>
+      <s:price currency="EUR">348.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/14869223244156</id>
+      <title>13</title>
+      <s:price currency="EUR">377.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/14869223244156</id>
+      <title>14</title>
+      <s:price currency="EUR">406.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/14869223244156</id>
+      <title>15</title>
+      <s:price currency="EUR">435.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/14869223244156</id>
+      <title>16</title>
+      <s:price currency="EUR">464.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/14869223244156</id>
+      <title>17</title>
+      <s:price currency="EUR">493.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://descubredesierto.com/products/7834857636054</id>
+    <published>2022-09-10T13:30:52+01:00</published>
+    <updated>2022-09-10T13:30:52+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://descubredesierto.com/products/excursion-grupal-de-marrakech-a-ouarzazate-y-la-kasbah-de-ait-benhaddou"/>
+    <title>Excursion Grupal a la Kasbah de Ait Benhaddou y Ouarzazate</title>
+    <s:type>Compartido</s:type>
+    <s:vendor>Descubre desierto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0654/7836/1302/products/ouarzazate10.jpg?v=1663330066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Descubre desierto<br>
+        <strong>Tipo: </strong>Compartido<br>
+        <strong>Precio: </strong>
+            23.00 - 391.00
+            <a href="https://descubredesierto.com/products/excursion-grupal-de-marrakech-a-ouarzazate-y-la-kasbah-de-ait-benhaddou">(17 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Esta <a href="https://descubredesierto.com/pages/excursiones-de-un-dia" title="Excursión de un día de Marrakech">excursión de un día de Marrakech</a> supone una oportunidad espectacular de ver gran parte del sur de Marruecos en un día completo. Es el tour ideal para quienes no tienen mucho tiempo de estancia en Marrakech o no desean pasar unas cuantas noches durmiendo en el desierto para descubrir Ouarzazate y sus alrededores.</p>
+<p>Tendrás la oportunidad de disfrutar de las montañas del Atlas, explorar las antiguas kasbahs de Marruecos y visitar Ouarzazate y sus estudios cinematográficos.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tours grupales de un día</s:tag>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7834857636054</id>
+      <title>1</title>
+      <s:price currency="EUR">23.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7834857636054</id>
+      <title>2</title>
+      <s:price currency="EUR">46.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7834857636054</id>
+      <title>3</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7834857636054</id>
+      <title>4</title>
+      <s:price currency="EUR">92.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7834857636054</id>
+      <title>5</title>
+      <s:price currency="EUR">115.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7834857636054</id>
+      <title>6</title>
+      <s:price currency="EUR">138.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7834857636054</id>
+      <title>7</title>
+      <s:price currency="EUR">161.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7834857636054</id>
+      <title>8</title>
+      <s:price currency="EUR">184.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7834857636054</id>
+      <title>9</title>
+      <s:price currency="EUR">207.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7834857636054</id>
+      <title>10</title>
+      <s:price currency="EUR">230.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7834857636054</id>
+      <title>11</title>
+      <s:price currency="EUR">253.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7834857636054</id>
+      <title>12</title>
+      <s:price currency="EUR">276.01</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7834857636054</id>
+      <title>13</title>
+      <s:price currency="EUR">299.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7834857636054</id>
+      <title>14</title>
+      <s:price currency="EUR">322.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7834857636054</id>
+      <title>15</title>
+      <s:price currency="EUR">345.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7834857636054</id>
+      <title>16</title>
+      <s:price currency="EUR">368.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7834857636054</id>
+      <title>17</title>
+      <s:price currency="EUR">391.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://descubredesierto.com/products/7834842136790</id>
+    <published>2022-09-10T12:18:09+01:00</published>
+    <updated>2022-09-10T12:18:09+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://descubredesierto.com/products/excursion-en-grupo-a-las-cascadas-de-ouzoud"/>
+    <title>Excursión en grupo a las cascadas de Ouzoud</title>
+    <s:type>Compartido</s:type>
+    <s:vendor>Descubre desierto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0654/7836/1302/products/ouzoud5.jpg?v=1663328918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Descubre desierto<br>
+        <strong>Tipo: </strong>Compartido<br>
+        <strong>Precio: </strong>
+            17.00 - 289.00
+            <a href="https://descubredesierto.com/products/excursion-en-grupo-a-las-cascadas-de-ouzoud">(17 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Mucha gente se imagina que Marruecos es un inmenso desierto estéril; sin embargo, en este país hay <strong>innumerables bosques frondosos y cascadas</strong>. Las cascadas de Ouzoud son <strong>las más grandes de todo el norte de África</strong>, se encuentran en el corazón de las montañas del Atlas y ofrecen una vista impresionante a los visitantes.</p>
+<p data-mce-fragment="1">Para aquellos que quieren <strong>huir del calor de Marrakech</strong>, merece la pena realizar esta <a href="https://descubredesierto.com/pages/excursiones-de-un-dia" title="Excursión de 1 día desde Marrakech">excursión de 1 día desde Marrakech</a><a href="https://descubredesierto.com/pages/excursiones-de-un-dia"> </a>y recorrer los 150 km que separan la ciudad roja y las cataratas de Ouzoud.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Excursiones Favoritas</s:tag>
+    <s:tag>Tours grupales de un día</s:tag>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7834842136790</id>
+      <title>1</title>
+      <s:price currency="EUR">17.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7834842136790</id>
+      <title>2</title>
+      <s:price currency="EUR">34.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7834842136790</id>
+      <title>3</title>
+      <s:price currency="EUR">51.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7834842136790</id>
+      <title>4</title>
+      <s:price currency="EUR">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7834842136790</id>
+      <title>5</title>
+      <s:price currency="EUR">85.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7834842136790</id>
+      <title>6</title>
+      <s:price currency="EUR">102.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7834842136790</id>
+      <title>7</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7834842136790</id>
+      <title>8</title>
+      <s:price currency="EUR">136.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7834842136790</id>
+      <title>9</title>
+      <s:price currency="EUR">153.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7834842136790</id>
+      <title>10</title>
+      <s:price currency="EUR">170.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7834842136790</id>
+      <title>11</title>
+      <s:price currency="EUR">187.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7834842136790</id>
+      <title>12</title>
+      <s:price currency="EUR">204.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7834842136790</id>
+      <title>13</title>
+      <s:price currency="EUR">221.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7834842136790</id>
+      <title>14</title>
+      <s:price currency="EUR">238.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7834842136790</id>
+      <title>15</title>
+      <s:price currency="EUR">255.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7834842136790</id>
+      <title>16</title>
+      <s:price currency="EUR">272.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7834842136790</id>
+      <title>17</title>
+      <s:price currency="EUR">289.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://descubredesierto.com/products/7771847917782</id>
+    <published>2022-07-25T15:39:27+01:00</published>
+    <updated>2022-07-25T15:39:27+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://descubredesierto.com/products/excursion-compartida-de-marrakech-al-valle-de-ourika"/>
+    <title>Excursión compartida de Marrakech al Valle de Ourika</title>
+    <s:type>Compartido</s:type>
+    <s:vendor>Descubre desierto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0654/7836/1302/products/excursion-Ourika1.jpg?v=1663270967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Descubre desierto<br>
+        <strong>Tipo: </strong>Compartido<br>
+        <strong>Precio: </strong>
+            15.00 - 255.00
+            <a href="https://descubredesierto.com/products/excursion-compartida-de-marrakech-al-valle-de-ourika">(17 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Opta por esa <a href="https://descubredesierto.com/collections/tours-compartidos-al-desierto/products/excursion-grupal-al-desierto-desde-marrakech-a-fez" title="Excursión grupal de 1 día desde Marrakech">excursión grupal de 1 día desde Marrakech</a> y vea por ti mismo cómo <strong>el marrón se ilumina en verde con el milagro del valle de Ourika</strong>. En esta excursión compartida de 1 día a Ourika, <strong>descubre la cultura de sus lugareños</strong>, disfruta de unos hermosos paisajes y vislumbra la satisfactoria alternancia en las tonalidades del encantador valle de Ourika.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tours grupales de un día</s:tag>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7771847917782</id>
+      <title>1</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7771847917782</id>
+      <title>2</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7771847917782</id>
+      <title>3</title>
+      <s:price currency="EUR">45.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7771847917782</id>
+      <title>4</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7771847917782</id>
+      <title>5</title>
+      <s:price currency="EUR">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7771847917782</id>
+      <title>6</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7771847917782</id>
+      <title>7</title>
+      <s:price currency="EUR">105.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7771847917782</id>
+      <title>8</title>
+      <s:price currency="EUR">120.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7771847917782</id>
+      <title>9</title>
+      <s:price currency="EUR">135.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7771847917782</id>
+      <title>10</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7771847917782</id>
+      <title>11</title>
+      <s:price currency="EUR">165.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7771847917782</id>
+      <title>12</title>
+      <s:price currency="EUR">180.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7771847917782</id>
+      <title>13</title>
+      <s:price currency="EUR">195.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7771847917782</id>
+      <title>14</title>
+      <s:price currency="EUR">210.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7771847917782</id>
+      <title>15</title>
+      <s:price currency="EUR">225.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7771847917782</id>
+      <title>16</title>
+      <s:price currency="EUR">240.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7771847917782</id>
+      <title>17</title>
+      <s:price currency="EUR">255.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://descubredesierto.com/products/7771550318806</id>
+    <published>2022-07-25T12:42:03+01:00</published>
+    <updated>2022-07-25T12:42:03+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://descubredesierto.com/products/excursion-compartida-de-un-dia-a-essaouira-desde-marrakech"/>
+    <title>Excursión compartida de un día a Essaouira desde Marrakech</title>
+    <s:type>Compartido</s:type>
+    <s:vendor>Descubre desierto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0654/7836/1302/products/excursion-essaouira3.jpg?v=1663326424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Descubre desierto<br>
+        <strong>Tipo: </strong>Compartido<br>
+        <strong>Precio: </strong>
+            17.00 - 289.00
+            <a href="https://descubredesierto.com/products/excursion-compartida-de-un-dia-a-essaouira-desde-marrakech">(17 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>En esta <a href="https://descubredesierto.com/collections/excursiones-compartidas-de-un-dia-desde-marrakech" title="Excursión de 1 día desde Marrakech en grupo">excursión de 1 día desde Marrakech</a> visitaremos Essaouira, o como su nombre lo traduce la ciudad bien diseñada. Es <strong>una pieza de arte</strong> en movimiento uniendo el aire fresco y ventoso, actividades que despiertan la alegría y el estilo de vida náutico de la gente. Essaouira es la perla azul del Atlántico donde <strong>la calma prevalece y la comprensión cultural siempre gana</strong>.</p>
+<p data-mce-fragment="1">Esta <a href="https://descubredesierto.com/pages/excursiones-de-un-dia" title="Excursión de un día de Marrakech en grupo">excursión de un día de Marrakech en grupo</a>, te permite explorar el puerto y el recinto amurallado de la Scala, atravesar las pintorescas calles de la Medina, <strong>descubrir la refinada artesanía  de la ciudad</strong> y visitar las cooperativas de mujeres que elaboran el aceite de Argán. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tours grupales de un día</s:tag>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7771550318806</id>
+      <title>1</title>
+      <s:price currency="EUR">17.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7771550318806</id>
+      <title>2</title>
+      <s:price currency="EUR">34.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7771550318806</id>
+      <title>3</title>
+      <s:price currency="EUR">51.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7771550318806</id>
+      <title>4</title>
+      <s:price currency="EUR">68.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7771550318806</id>
+      <title>5</title>
+      <s:price currency="EUR">85.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7771550318806</id>
+      <title>6</title>
+      <s:price currency="EUR">102.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7771550318806</id>
+      <title>7</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7771550318806</id>
+      <title>8</title>
+      <s:price currency="EUR">136.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7771550318806</id>
+      <title>9</title>
+      <s:price currency="EUR">153.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7771550318806</id>
+      <title>10</title>
+      <s:price currency="EUR">170.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7771550318806</id>
+      <title>11</title>
+      <s:price currency="EUR">187.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7771550318806</id>
+      <title>12</title>
+      <s:price currency="EUR">204.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7771550318806</id>
+      <title>13</title>
+      <s:price currency="EUR">221.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7771550318806</id>
+      <title>14</title>
+      <s:price currency="EUR">238.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7771550318806</id>
+      <title>15</title>
+      <s:price currency="EUR">255.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7771550318806</id>
+      <title>16</title>
+      <s:price currency="EUR">272.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7771550318806</id>
+      <title>17</title>
+      <s:price currency="EUR">289.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
