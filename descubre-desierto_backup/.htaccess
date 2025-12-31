@@ -1,14 +1,1 @@
 RewriteEngine On
-
-# Serve existing files or folders
-RewriteCond %{REQUEST_FILENAME} -f [OR]
-RewriteCond %{REQUEST_FILENAME} -d
-RewriteRule ^ - [L]
-
-# Folder → index.html
-RewriteCond %{REQUEST_FILENAME}/index.html -f
-RewriteRule ^(.+)$ $1/index.html [L]
-
-# Legacy .html URLs
-RewriteCond %{REQUEST_FILENAME}.html -f
-RewriteRule ^(.+)\.html$ $1/ [R=301,L]
