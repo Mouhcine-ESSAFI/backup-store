@@ -1,0 +1,2249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://descubredesierto.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://descubredesierto.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://descubredesierto.com/collections/rutas-privadas-y-de-lujo-al-desierto.atom"/>
+  <title>Descubre Desierto</title>
+  <updated>2024-11-11T15:30:22+01:00</updated>
+  <author>
+    <name>Descubre Desierto</name>
+  </author>
+  <entry>
+    <id>https://descubredesierto.com/products/8592087843030</id>
+    <published>2024-11-11T15:30:22+01:00</published>
+    <updated>2024-11-11T15:30:22+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://descubredesierto.com/products/excursion-de-2-dias-desde-fez-a-merzouga-en-espanol"/>
+    <title>Excursión de 2 días desde Fez al desierto de Merzouga</title>
+    <s:type>Privado</s:type>
+    <s:vendor>Descubre desierto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0654/7836/1302/files/excursion-compartida-fez6.jpg?v=1715010504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Descubre desierto<br>
+        <strong>Tipo: </strong>Privado<br>
+        <strong>Precio: </strong>
+            419.00 - 2618.00
+            <a href="https://descubredesierto.com/products/excursion-de-2-dias-desde-fez-a-merzouga-en-espanol">(51 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Embárcate en una <strong>emocionante aventura de 2 días desde Fez hacia el majestuoso desierto de Merzouga</strong>. Este tour te llevará a través de <strong>paisajes impresionantes</strong>, desde las montañas del <strong>Atlas Medio</strong> hasta las <strong>dunas doradas del Sahara</strong>, ofreciéndote una <strong>experiencia única y auténtica</strong>. Descubre la <strong>rica cultura bereber</strong>, disfruta de un <strong>inolvidable paseo en camello al atardecer</strong> y pasa una <strong>noche mágica bajo las estrellas</strong> del <strong>desierto del Sahara</strong>.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Excursiones privadas al desierto</s:tag>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>1 / Campamento Confort</title>
+      <s:price currency="EUR">419.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>1 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">484.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>1 / Campamento Superior con A/C (+85€)</title>
+      <s:price currency="EUR">504.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>2 / Campamento Confort</title>
+      <s:price currency="EUR">438.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>2 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">568.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>2 / Campamento Superior con A/C (+85€)</title>
+      <s:price currency="EUR">608.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>3 / Campamento Confort</title>
+      <s:price currency="EUR">477.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>3 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">672.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>3 / Campamento Superior con A/C (+85€)</title>
+      <s:price currency="EUR">732.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>4 / Campamento Confort</title>
+      <s:price currency="EUR">516.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>4 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">776.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>4 / Campamento Superior con A/C (+85€)</title>
+      <s:price currency="EUR">856.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>5 / Campamento Confort</title>
+      <s:price currency="EUR">545.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>5 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">870.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>5 / Campamento Superior con A/C (+85€)</title>
+      <s:price currency="EUR">970.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>6 / Campamento Confort</title>
+      <s:price currency="EUR">594.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>6 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">984.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>6 / Campamento Superior con A/C (+85€)</title>
+      <s:price currency="EUR">1104.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>7 / Campamento Confort</title>
+      <s:price currency="EUR">693.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>7 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">1148.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>7 / Campamento Superior con A/C (+85€)</title>
+      <s:price currency="EUR">1288.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>8 / Campamento Confort</title>
+      <s:price currency="EUR">792.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>8 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">1312.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>8 / Campamento Superior con A/C (+85€)</title>
+      <s:price currency="EUR">1472.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>9 / Campamento Confort</title>
+      <s:price currency="EUR">801.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>9 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">1386.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>9 / Campamento Superior con A/C (+85€)</title>
+      <s:price currency="EUR">1566.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>10 / Campamento Confort</title>
+      <s:price currency="EUR">890.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>10 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">1540.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>10 / Campamento Superior con A/C (+85€)</title>
+      <s:price currency="EUR">1740.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>11 / Campamento Confort</title>
+      <s:price currency="EUR">869.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>11 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">1584.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>11 / Campamento Superior con A/C (+85€)</title>
+      <s:price currency="EUR">1804.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>12 / Campamento Confort</title>
+      <s:price currency="EUR">948.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>12 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">1728.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>12 / Campamento Superior con A/C (+85€)</title>
+      <s:price currency="EUR">1968.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>13 / Campamento Confort</title>
+      <s:price currency="EUR">897.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>13 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">1742.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>13 / Campamento Superior con A/C (+85€)</title>
+      <s:price currency="EUR">2002.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>14 / Campamento Confort</title>
+      <s:price currency="EUR">966.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>14 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">1876.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>14 / Campamento Superior con A/C (+85€)</title>
+      <s:price currency="EUR">2156.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>15 / Campamento Confort</title>
+      <s:price currency="EUR">1035.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>15 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">2010.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>15 / Campamento Superior con A/C (+85€)</title>
+      <s:price currency="EUR">2310.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>16 / Campamento Confort</title>
+      <s:price currency="EUR">1104.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>16 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">2144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>16 / Campamento Superior con A/C (+85€)</title>
+      <s:price currency="EUR">2464.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>17 / Campamento Confort</title>
+      <s:price currency="EUR">1173.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>17 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">2278.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8592087843030</id>
+      <title>17 / Campamento Superior con A/C (+85€)</title>
+      <s:price currency="EUR">2618.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://descubredesierto.com/products/7959586537686</id>
+    <published>2022-12-21T17:14:48+01:00</published>
+    <updated>2022-12-21T17:14:48+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://descubredesierto.com/products/excursion-al-desierto-de-marrakech-a-chefchaouen-en-espanol"/>
+    <title>Circuito 6 días al desierto de Marrakech vía Fez y Chefchaouen</title>
+    <s:type>Privado</s:type>
+    <s:vendor>Descubre desierto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0654/7836/1302/products/Chefchaouen-ciudad-azul.jpg?v=1671639936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Descubre desierto<br>
+        <strong>Tipo: </strong>Privado<br>
+        <strong>Precio: </strong>
+            1399.00 - 6783.00
+            <a href="https://descubredesierto.com/products/excursion-al-desierto-de-marrakech-a-chefchaouen-en-espanol">(17 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Explora la ciudad azul Chefchaouen durante este tour por el desierto de Marrakech, y descubre su arte y tradiciones. Chaouen o Xauen, también llamada la “perla del norte” es una de las ciudades más bellas de las montañas del Rif. Es la última muralla antes del Mediterráneo y la Península Ibérica.</p>
+<p data-mce-fragment="1">No te pierdas una de las más atractivas <a href="https://descubredesierto.com/" title="Viajes a Marruecos, Marrakech, Fez, Chefchaouen, Casablanca">excursiones desde Marrakech</a> pasando por el desierto de Merzouga durante tu próximo viaje a Marruecos.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Excursiones en Oferta</s:tag>
+    <s:tag>Excursiones Favoritas</s:tag>
+    <s:tag>Excursiones privadas al desierto</s:tag>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7959586537686</id>
+      <title>1</title>
+      <s:price currency="EUR">1399.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7959586537686</id>
+      <title>2</title>
+      <s:price currency="EUR">1638.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7959586537686</id>
+      <title>3</title>
+      <s:price currency="EUR">1947.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7959586537686</id>
+      <title>4</title>
+      <s:price currency="EUR">2236.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7959586537686</id>
+      <title>5</title>
+      <s:price currency="EUR">2545.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7959586537686</id>
+      <title>6</title>
+      <s:price currency="EUR">2874.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7959586537686</id>
+      <title>7</title>
+      <s:price currency="EUR">3143.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7959586537686</id>
+      <title>8</title>
+      <s:price currency="EUR">3512.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7959586537686</id>
+      <title>9</title>
+      <s:price currency="EUR">3951.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7959586537686</id>
+      <title>10</title>
+      <s:price currency="EUR">4390.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7959586537686</id>
+      <title>11</title>
+      <s:price currency="EUR">4719.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7959586537686</id>
+      <title>12</title>
+      <s:price currency="EUR">5148.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7959586537686</id>
+      <title>13</title>
+      <s:price currency="EUR">5577.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7959586537686</id>
+      <title>14</title>
+      <s:price currency="EUR">5586.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7959586537686</id>
+      <title>15</title>
+      <s:price currency="EUR">5985.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7959586537686</id>
+      <title>16</title>
+      <s:price currency="EUR">6384.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7959586537686</id>
+      <title>17</title>
+      <s:price currency="EUR">6783.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://descubredesierto.com/products/7868131049686</id>
+    <published>2022-09-30T15:24:42+01:00</published>
+    <updated>2022-09-30T15:24:42+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://descubredesierto.com/products/circuito-4x4-por-el-desierto-de-erg-chegaga"/>
+    <title>Circuito 4x4 por el desierto de Erg Chegaga</title>
+    <s:type>Privado</s:type>
+    <s:vendor>Descubre desierto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0654/7836/1302/products/tour-4x4-marruecos.jpg?v=1664547947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Descubre desierto<br>
+        <strong>Tipo: </strong>Privado<br>
+        <strong>Precio: </strong>
+            749.00 - 1700.00
+            <a href="https://descubredesierto.com/products/circuito-4x4-por-el-desierto-de-erg-chegaga">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">¿Buscas el verdadero desierto del Sáhara, alejado de los pueblos y del turismo de masas? Entonces esta excursión al desierto de 3 días desde Marrakech a Erg Chegaga es absolutamente la indicada para ti. Te llevará a las dunas de Erg Chigaga para <strong>vivir una aventura completa y única en el desierto de Marruecos</strong>.</p>
+<p data-mce-fragment="1">En ese tour privado por el desierto del Sáhara, <strong>experimentarás las montañas del Alto Atlas</strong> a través del paso de Tizi-n-Tichka, que ofrecen espléndidas vistas en cada curva de la carretera. Visitarás las<strong> más famosas Kasbahs de Marruecos</strong>, que son ejemplos de la arquitectura local de adobe, fresca en verano y cálida en invierno. Fuera de la carretera, a través del valle del Dra'a, pasando por antiguas kasbahs y atravesando un verde oasis, descubrirás la <strong>forma de vida de los locales</strong>.</p>
+<p data-mce-fragment="1">La experiencia de los tours al desierto de Marrakech, se incrementará con <strong>una noche de sueño en cómodas jaimas</strong> en un campamento a los pies de las dunas del Sáhara más extensas de Marruecos.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Excursiones privadas al desierto</s:tag>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7868131049686</id>
+      <title>1 / Campamento Confort</title>
+      <s:price currency="EUR">749.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7868131049686</id>
+      <title>1 / Campamento Superior (+95€)</title>
+      <s:price currency="EUR">844.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7868131049686</id>
+      <title>2 / Campamento Confort</title>
+      <s:price currency="EUR">838.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7868131049686</id>
+      <title>2 / Campamento Superior (+95€)</title>
+      <s:price currency="EUR">1028.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7868131049686</id>
+      <title>3 / Campamento Confort</title>
+      <s:price currency="EUR">975.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7868131049686</id>
+      <title>3 / Campamento Superior (+95€)</title>
+      <s:price currency="EUR">1260.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7868131049686</id>
+      <title>4 / Campamento Confort</title>
+      <s:price currency="EUR">1116.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7868131049686</id>
+      <title>4 / Campamento Superior (+95€)</title>
+      <s:price currency="EUR">1496.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7868131049686</id>
+      <title>5 / Campamento Confort</title>
+      <s:price currency="EUR">1225.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7868131049686</id>
+      <title>5 / Campamento Superior (+95€)</title>
+      <s:price currency="EUR">1700.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://descubredesierto.com/products/7757217333462</id>
+    <published>2022-07-15T18:23:31+01:00</published>
+    <updated>2022-07-15T18:23:31+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://descubredesierto.com/products/3-dias-fez-a-marrakech-por-el-desierto-del-sahara"/>
+    <title>3 días Fez a Marrakech por el desierto del Sáhara</title>
+    <s:type>Privado</s:type>
+    <s:vendor>Descubre desierto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0654/7836/1302/products/Fez-Excursion-privada1.jpg?v=1663272519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Descubre desierto<br>
+        <strong>Tipo: </strong>Privado<br>
+        <strong>Precio: </strong>
+            729.00 - 3298.00
+            <a href="https://descubredesierto.com/products/3-dias-fez-a-marrakech-por-el-desierto-del-sahara">(34 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>El viaje de Fez a Marrakech vía el Sáhara es una de las <a href="https://descubredesierto.com/collections/rutas-privadas-y-de-lujo-al-desierto" title="Recorridos privados por el desierto del Sáhara">excursiones al desierto más populares de Marruecos</a>, ya que <strong>conecta estas dos ciudades imperiales</strong> pasando por hermosos pueblos antiguos, el desierto del Sáhara y asombrosos paisajes expansivos.</p>
+<p>La distancia entre Fez y Marrakech es de unos 530 kilómetros, por lo cual tendrás que pasar al menos 3 días y 2 noches en este tour por el desierto. Con una <strong>comida local excepciona</strong>l, paisajes increíbles y<strong> pueblos antiguos que datan de hace miles de años</strong> y que todavía se utilizan hoy en día. La <strong>excursión al desierto de Fez a Marrakech es una experiencia que no debes perderte</strong>.</p>
+<p>También tienes la posibilidad de realizar la misma ruta pero al revés, o sea desde Marrakech a Fez, en la <a href="https://descubredesierto.com/collections/rutas-privadas-y-de-lujo-al-desierto/products/ruta-de-3-dias-al-desierto-de-marrakech-a-fez">ex</a><a href="https://descubredesierto.com/collections/rutas-privadas-y-de-lujo-al-desierto/products/ruta-de-3-dias-al-desierto-de-marrakech-a-fez" title="Excursion privada de 3 dias al desierto desde Marrakech a Fez">cursion privada de 3 dias vía el desierto desde Marrakech a Fez</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Excursiones privadas al desierto</s:tag>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7757217333462</id>
+      <title>1 / Campamento Confort</title>
+      <s:price currency="EUR">729.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7757217333462</id>
+      <title>1 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">804.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7757217333462</id>
+      <title>2 / Campamento Confort</title>
+      <s:price currency="EUR">798.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7757217333462</id>
+      <title>2 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">948.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7757217333462</id>
+      <title>3 / Campamento Confort</title>
+      <s:price currency="EUR">867.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7757217333462</id>
+      <title>3 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">1092.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7757217333462</id>
+      <title>4 / Campamento Confort</title>
+      <s:price currency="EUR">956.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7757217333462</id>
+      <title>4 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">1256.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7757217333462</id>
+      <title>5 / Campamento Confort</title>
+      <s:price currency="EUR">1045.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7757217333462</id>
+      <title>5 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">1420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7757217333462</id>
+      <title>6 / Campamento Confort</title>
+      <s:price currency="EUR">1134.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7757217333462</id>
+      <title>6 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">1584.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7757217333462</id>
+      <title>7 / Campamento Confort</title>
+      <s:price currency="EUR">1323.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7757217333462</id>
+      <title>7 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">1848.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7757217333462</id>
+      <title>8 / Campamento Confort</title>
+      <s:price currency="EUR">1352.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7757217333462</id>
+      <title>8 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">1952.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7757217333462</id>
+      <title>9 / Campamento Confort</title>
+      <s:price currency="EUR">1431.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7757217333462</id>
+      <title>9 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">2106.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7757217333462</id>
+      <title>10 / Campamento Confort</title>
+      <s:price currency="EUR">1490.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7757217333462</id>
+      <title>10 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">2240.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7757217333462</id>
+      <title>11 / Campamento Confort</title>
+      <s:price currency="EUR">1639.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7757217333462</id>
+      <title>11 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">2464.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7757217333462</id>
+      <title>12 / Campamento Confort</title>
+      <s:price currency="EUR">1668.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7757217333462</id>
+      <title>12 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">2568.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7757217333462</id>
+      <title>13 / Campamento Confort</title>
+      <s:price currency="EUR">1807.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7757217333462</id>
+      <title>13 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">2782.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7757217333462</id>
+      <title>14 / Campamento Confort</title>
+      <s:price currency="EUR">1806.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7757217333462</id>
+      <title>14 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">2856.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7757217333462</id>
+      <title>15 / Campamento Confort</title>
+      <s:price currency="EUR">1935.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7757217333462</id>
+      <title>15 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">3060.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7757217333462</id>
+      <title>16 / Campamento Confort</title>
+      <s:price currency="EUR">2064.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7757217333462</id>
+      <title>16 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">3264.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7757217333462</id>
+      <title>17 / Campamento Confort</title>
+      <s:price currency="EUR">2023.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7757217333462</id>
+      <title>17 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">3298.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://descubredesierto.com/products/7756805734614</id>
+    <published>2022-07-15T13:15:24+01:00</published>
+    <updated>2022-07-15T13:15:24+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://descubredesierto.com/products/ruta-de-3-dias-al-desierto-de-marrakech-a-fez"/>
+    <title>Ruta de 3 días al desierto de Marrakech a Fez</title>
+    <s:type>Privado</s:type>
+    <s:vendor>Descubre desierto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0654/7836/1302/products/girl-runs-along-the-sahara-desert.jpg?v=1663330962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Descubre desierto<br>
+        <strong>Tipo: </strong>Privado<br>
+        <strong>Precio: </strong>
+            729.00 - 3298.00
+            <a href="https://descubredesierto.com/products/ruta-de-3-dias-al-desierto-de-marrakech-a-fez">(34 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Descubre algunos de los lugares más fascinantes de Marruecos en esta <strong>excursión de 3 días al desierto desde Marrakech</strong>. Explora la ciudad fortificada de Aït Ben Haddou, patrimonio mundial y disfruta de las famosas gargantas del Dades y del Valle de las Rosas. Monta en camello por el desierto de Merzouga y <strong>aprovecha de un despertar único entre las dunas.</strong></p>
+<p>En nuestros <a href="https://descubredesierto.com/pages/tours-al-desierto" title="Excursiones al desierto desde Marrakech y Fez">tours por el desierto del Sáhara de Marruecos</a>, <strong>sé un nómada durante una noche durmiendo, comiendo y viviendo como lo hacían los antepasados beduinos</strong>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Excursiones privadas al desierto</s:tag>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756805734614</id>
+      <title>1 / Campamento Confort</title>
+      <s:price currency="EUR">729.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756805734614</id>
+      <title>1 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">804.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756805734614</id>
+      <title>2 / Campamento Confort</title>
+      <s:price currency="EUR">798.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756805734614</id>
+      <title>2 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">948.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756805734614</id>
+      <title>3 / Campamento Confort</title>
+      <s:price currency="EUR">867.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756805734614</id>
+      <title>3 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">1092.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756805734614</id>
+      <title>4 / Campamento Confort</title>
+      <s:price currency="EUR">956.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756805734614</id>
+      <title>4 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">1256.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756805734614</id>
+      <title>5 / Campamento Confort</title>
+      <s:price currency="EUR">1045.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756805734614</id>
+      <title>5 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">1420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756805734614</id>
+      <title>6 / Campamento Confort</title>
+      <s:price currency="EUR">1134.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756805734614</id>
+      <title>6 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">1584.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756805734614</id>
+      <title>7 / Campamento Confort</title>
+      <s:price currency="EUR">1323.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756805734614</id>
+      <title>7 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">1848.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756805734614</id>
+      <title>8 / Campamento Confort</title>
+      <s:price currency="EUR">1352.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756805734614</id>
+      <title>8 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">1952.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756805734614</id>
+      <title>9 / Campamento Confort</title>
+      <s:price currency="EUR">1431.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756805734614</id>
+      <title>9 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">2106.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756805734614</id>
+      <title>10 / Campamento Confort</title>
+      <s:price currency="EUR">1490.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756805734614</id>
+      <title>10 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">2240.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756805734614</id>
+      <title>11 / Campamento Confort</title>
+      <s:price currency="EUR">1639.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756805734614</id>
+      <title>11 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">2464.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756805734614</id>
+      <title>12 / Campamento Confort</title>
+      <s:price currency="EUR">1668.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756805734614</id>
+      <title>12 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">2568.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756805734614</id>
+      <title>13 / Campamento Confort</title>
+      <s:price currency="EUR">1807.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756805734614</id>
+      <title>13 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">2782.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756805734614</id>
+      <title>14 / Campamento Confort</title>
+      <s:price currency="EUR">1806.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756805734614</id>
+      <title>14 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">2856.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756805734614</id>
+      <title>15 / Campamento Confort</title>
+      <s:price currency="EUR">1935.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756805734614</id>
+      <title>15 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">3060.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756805734614</id>
+      <title>16 / Campamento Confort</title>
+      <s:price currency="EUR">2064.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756805734614</id>
+      <title>16 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">3264.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756805734614</id>
+      <title>17 / Campamento Confort</title>
+      <s:price currency="EUR">2023.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756805734614</id>
+      <title>17 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">3298.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://descubredesierto.com/products/7756637143254</id>
+    <published>2022-07-15T13:12:34+01:00</published>
+    <updated>2022-07-15T13:12:34+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://descubredesierto.com/products/tour-de-4-dias-al-desierto-desde-marrakech"/>
+    <title>Tour de 4 días al desierto de Merzouga desde Marrakech</title>
+    <s:type>Privado</s:type>
+    <s:vendor>Descubre desierto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0654/7836/1302/products/excursion-merzouga3.jpg?v=1663331059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Descubre desierto<br>
+        <strong>Tipo: </strong>Privado<br>
+        <strong>Precio: </strong>
+            749.00 - 4318.00
+            <a href="https://descubredesierto.com/products/tour-de-4-dias-al-desierto-desde-marrakech">(51 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">La <strong>excursión de 4 días por el desierto de Marruecos desde Marrakech</strong> hasta las dunas de Merzouga, pasando por las gargantas de Dades, te permitirá descubrir el desierto del Sáhara marroquí. <strong>Admire el espléndido Ksar de Ait Ben Haddou</strong>.</p>
+<p data-mce-fragment="1"><strong>Sigue los caminos de las antiguas carreteras de caravanas</strong> mientras se conduce por el Valle del Draa, con sus oasis salpicados de palmeras y Kasbahs fortificadas. A continuación, atraviesa el macizo volcánico del Anti Atlas. <strong>Monta en camello en Erg Chebbi</strong> y pasa una noche mágica bajo las estrellas en el campamento del desierto del Sáhara marroquí en Merzouga. Por último, cruza el Valle de las Rosas y la carretera de las 1001 Kasbahs. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Excursiones Favoritas</s:tag>
+    <s:tag>Excursiones privadas al desierto</s:tag>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>1 / Campamento Confort</title>
+      <s:price currency="EUR">749.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>1 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">814.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>1 / Campamento Superior con AC (+85€)</title>
+      <s:price currency="EUR">834.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>2 / Campamento Confort</title>
+      <s:price currency="EUR">878.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>2 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">1008.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>2 / Campamento Superior con AC (+85€)</title>
+      <s:price currency="EUR">1048.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>3 / Campamento Confort</title>
+      <s:price currency="EUR">1017.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>3 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">1212.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>3 / Campamento Superior con AC (+85€)</title>
+      <s:price currency="EUR">1272.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>4 / Campamento Confort</title>
+      <s:price currency="EUR">1156.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>4 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">1416.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>4 / Campamento Superior con AC (+85€)</title>
+      <s:price currency="EUR">1496.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>5 / Campamento Confort</title>
+      <s:price currency="EUR">1295.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>5 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">1620.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>5 / Campamento Superior con AC (+85€)</title>
+      <s:price currency="EUR">1720.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>6 / Campamento Confort</title>
+      <s:price currency="EUR">1434.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>6 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">1824.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>6 / Campamento Superior con AC (+85€)</title>
+      <s:price currency="EUR">1944.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>7 / Campamento Confort</title>
+      <s:price currency="EUR">1603.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>7 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">2058.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>7 / Campamento Superior con AC (+85€)</title>
+      <s:price currency="EUR">2198.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>8 / Campamento Confort</title>
+      <s:price currency="EUR">1832.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>8 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">2352.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>8 / Campamento Superior con AC (+85€)</title>
+      <s:price currency="EUR">2512.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>9 / Campamento Confort</title>
+      <s:price currency="EUR">1971.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>9 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">2556.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>9 / Campamento Superior con AC (+85€)</title>
+      <s:price currency="EUR">2736.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>10 / Campamento Confort</title>
+      <s:price currency="EUR">2090.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>10 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">2740.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>10 / Campamento Superior con AC (+85€)</title>
+      <s:price currency="EUR">2940.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>11 / Campamento Confort</title>
+      <s:price currency="EUR">2189.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>11 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">2904.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>11 / Campamento Superior con AC (+85€)</title>
+      <s:price currency="EUR">3124.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>12 / Campamento Confort</title>
+      <s:price currency="EUR">2388.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>12 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">3168.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>12 / Campamento Superior con AC (+85€)</title>
+      <s:price currency="EUR">3408.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>13 / Campamento Confort</title>
+      <s:price currency="EUR">2457.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>13 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">3302.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>13 / Campamento Superior con AC (+85€)</title>
+      <s:price currency="EUR">3562.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>14 / Campamento Confort</title>
+      <s:price currency="EUR">2506.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>14 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">3416.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>14 / Campamento Superior con AC (+85€)</title>
+      <s:price currency="EUR">3696.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>15 / Campamento Confort</title>
+      <s:price currency="EUR">2685.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>15 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">3660.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>15 / Campamento Superior con AC (+85€)</title>
+      <s:price currency="EUR">3960.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>16 / Campamento Confort</title>
+      <s:price currency="EUR">2864.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>16 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">3904.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>16 / Campamento Superior con AC (+85€)</title>
+      <s:price currency="EUR">4224.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>17 / Campamento Confort</title>
+      <s:price currency="EUR">2873.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>17 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">3978.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7756637143254</id>
+      <title>17 / Campamento Superior con AC (+85€)</title>
+      <s:price currency="EUR">4318.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://descubredesierto.com/products/7755500060886</id>
+    <published>2022-07-14T15:16:42+01:00</published>
+    <updated>2022-07-14T15:16:42+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://descubredesierto.com/products/excursion-de-2-dias-al-desierto-de-marrakech-a-zagora"/>
+    <title>Excursión de 2 días al desierto de Marrakech a Zagora</title>
+    <s:type>Privado</s:type>
+    <s:vendor>Descubre desierto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0654/7836/1302/products/Excursionprivada2diasdesiertoZagora1.jpg?v=1671699439"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Descubre desierto<br>
+        <strong>Tipo: </strong>Privado<br>
+        <strong>Precio: </strong>
+            379.00 - 2380.00
+            <a href="https://descubredesierto.com/products/excursion-de-2-dias-al-desierto-de-marrakech-a-zagora">(34 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Si visitas Marrakech y tienes poco tiempo de estancia, puedes no perderte <strong>pasar una noche mágica bajo las estrellas</strong> durante nuestra excursión de 2 días por el desierto de Zagora. Este <a href="https://descubredesierto.com/pages/tours-al-desierto" title="Rutas y circuitos al desierto de Marruecos">tour al desierto de Marrakech</a> te lleva a través de las montañas del Alto Atlas y <strong>el famoso paso de Tizi-n-Tichka</strong>, hasta el desierto en el sur de Zagora.</p>
+<p data-mce-fragment="1">Durante esta excursión privada de 2 días desde Marrakech al desierto de Zagora, podrás disfrutar de hermosas vistas durante el trayecto. Podrás hacer fotos memorables de tu grupo con los pueblos bereberes, los valles y las montañas nevadas de fondo. Visitarás las dos kasbahs más famosas de Marruecos, <strong>Telouet y Kasbah Ait Ben Haddou</strong>, y te detendrás en <strong>los famosos estudios cinematográficos de Ouarzazate</strong> para fotografiar los decorados de las películas.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Excursiones privadas al desierto</s:tag>
+    <s:tag>Valentin</s:tag>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7755500060886</id>
+      <title>1 / Campamento Confort</title>
+      <s:price currency="EUR">379.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7755500060886</id>
+      <title>1 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">454.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7755500060886</id>
+      <title>2 / Campamento Confort</title>
+      <s:price currency="EUR">398.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7755500060886</id>
+      <title>2 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">548.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7755500060886</id>
+      <title>3 / Campamento Confort</title>
+      <s:price currency="EUR">447.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7755500060886</id>
+      <title>3 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">672.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7755500060886</id>
+      <title>4 / Campamento Confort</title>
+      <s:price currency="EUR">476.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7755500060886</id>
+      <title>4 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">776.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7755500060886</id>
+      <title>5 / Campamento Confort</title>
+      <s:price currency="EUR">545.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7755500060886</id>
+      <title>5 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">920.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7755500060886</id>
+      <title>6 / Campamento Confort</title>
+      <s:price currency="EUR">594.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7755500060886</id>
+      <title>6 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">1044.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7755500060886</id>
+      <title>7 / Campamento Confort</title>
+      <s:price currency="EUR">693.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7755500060886</id>
+      <title>7 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">1218.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7755500060886</id>
+      <title>8 / Campamento Confort</title>
+      <s:price currency="EUR">712.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7755500060886</id>
+      <title>8 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">1312.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7755500060886</id>
+      <title>9 / Campamento Confort</title>
+      <s:price currency="EUR">711.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7755500060886</id>
+      <title>9 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">1386.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7755500060886</id>
+      <title>10 / Campamento Confort</title>
+      <s:price currency="EUR">790.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7755500060886</id>
+      <title>10 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">1540.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7755500060886</id>
+      <title>11 / Campamento Confort</title>
+      <s:price currency="EUR">869.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7755500060886</id>
+      <title>11 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">1694.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7755500060886</id>
+      <title>12 / Campamento Confort</title>
+      <s:price currency="EUR">828.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7755500060886</id>
+      <title>12 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">1728.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7755500060886</id>
+      <title>13 / Campamento Confort</title>
+      <s:price currency="EUR">897.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7755500060886</id>
+      <title>13 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">1872.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7755500060886</id>
+      <title>14 / Campamento Confort</title>
+      <s:price currency="EUR">966.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7755500060886</id>
+      <title>14 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">2016.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7755500060886</id>
+      <title>15 / Campamento Confort</title>
+      <s:price currency="EUR">1035.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7755500060886</id>
+      <title>15 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">2160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7755500060886</id>
+      <title>16 / Campamento Confort</title>
+      <s:price currency="EUR">1104.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7755500060886</id>
+      <title>16 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">2304.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7755500060886</id>
+      <title>17 / Campamento Confort</title>
+      <s:price currency="EUR">1105.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7755500060886</id>
+      <title>17 / Campamento Superior (+75€)</title>
+      <s:price currency="EUR">2380.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://descubredesierto.com/products/7726370783446</id>
+    <published>2022-06-27T13:10:34+01:00</published>
+    <updated>2022-06-27T13:10:34+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://descubredesierto.com/products/excursion-de-3-dias-desde-marrakech-al-desierto-de-merzouga"/>
+    <title>Excursión de 3 días desde Marrakech a Merzouga</title>
+    <s:type>Privado</s:type>
+    <s:vendor>Descubre desierto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0654/7836/1302/products/excursion-privada-3dias-merzouga2.jpg?v=1663272182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Descubre desierto<br>
+        <strong>Tipo: </strong>Privado<br>
+        <strong>Precio: </strong>
+            579.00 - 3298.00
+            <a href="https://descubredesierto.com/products/excursion-de-3-dias-desde-marrakech-al-desierto-de-merzouga">(51 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>La excursión de 3 días al desierto de Marrakech a Merzouga, no tiene rival por su experiencia memorable y emocionante. Desde <strong>la impresionante vista de las montañas nevadas del Atlas</strong>, los fascinantes oasis y gargantas de Todra, hasta <strong>la cena bajo un cielo iluminado por la luz de las estrellas</strong> acompañada de música y tambores bereberes, este <a href="https://descubredesierto.com/collections/rutas-privadas-y-de-lujo-al-desierto" title="Tours privados al desierto desde Marrakech y Fez">viaje por el desierto del Sáhara</a> es único.</p>
+<p>En la excursión de 3 dias al desierto de Merzouga, <strong>visitarás la Kasbah de Ait Ben Haddou, patrimonio mundial de la UNESCO</strong>, donde se han rodeado varias películas famosas de Hollywood. Cruzarás el valle más largo de Marruecos, el valle del Draa y explorarás sus magníficos palmerales e innumerables Kasbahs. También <strong>disfrutarás de la estimulante sensación de ver el amanecer y el atardecer</strong> mientras hagas el paseo en camello. Descubrirás que las <strong>excursiones al desierto desde Marrakech</strong> al desierto de Erg Chebbi es nada menos que una experiencia perfecta en el desierto.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Excursiones Favoritas</s:tag>
+    <s:tag>Excursiones privadas al desierto</s:tag>
+    <s:tag>Valentin</s:tag>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>1 / Campamento Confort</title>
+      <s:price currency="EUR">579.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>1 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">644.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>1 / Campamento Superior con AC (+85€)</title>
+      <s:price currency="EUR">664.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>2 / Campamento Confort</title>
+      <s:price currency="EUR">638.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>2 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">768.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>2 / Campamento Superior con AC (+85€)</title>
+      <s:price currency="EUR">808.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>3 / Campamento Confort</title>
+      <s:price currency="EUR">717.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>3 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">912.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>3 / Campamento Superior con AC (+85€)</title>
+      <s:price currency="EUR">972.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>4 / Campamento Confort</title>
+      <s:price currency="EUR">796.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>4 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">1056.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>4 / Campamento Superior con AC (+85€)</title>
+      <s:price currency="EUR">1136.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>5 / Campamento Confort</title>
+      <s:price currency="EUR">895.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>5 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">1220.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>5 / Campamento Superior con AC (+85€)</title>
+      <s:price currency="EUR">1320.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>6 / Campamento Confort</title>
+      <s:price currency="EUR">954.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>6 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">1344.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>6 / Campamento Superior con AC (+85€)</title>
+      <s:price currency="EUR">1464.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>7 / Campamento Confort</title>
+      <s:price currency="EUR">1043.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>7 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">1498.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>7 / Campamento Superior con AC (+85€)</title>
+      <s:price currency="EUR">1638.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>8 / Campamento Confort</title>
+      <s:price currency="EUR">1192.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>8 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">1712.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>8 / Campamento Superior con AC (+85€)</title>
+      <s:price currency="EUR">1872.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>9 / Campamento Confort</title>
+      <s:price currency="EUR">1341.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>9 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">1926.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>9 / Campamento Superior con AC (+85€)</title>
+      <s:price currency="EUR">2106.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>10 / Campamento Confort</title>
+      <s:price currency="EUR">1390.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>10 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">2040.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>10 / Campamento Superior con AC (+85€)</title>
+      <s:price currency="EUR">2240.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>11 / Campamento Confort</title>
+      <s:price currency="EUR">1419.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>11 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">2134.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>11 / Campamento Superior con AC (+85€)</title>
+      <s:price currency="EUR">2354.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>12 / Campamento Confort</title>
+      <s:price currency="EUR">1548.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>12 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">2328.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>12 / Campamento Superior con AC (+85€)</title>
+      <s:price currency="EUR">2568.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>13 / Campamento Confort</title>
+      <s:price currency="EUR">1677.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>13 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">2522.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>13 / Campamento Superior con AC (+85€)</title>
+      <s:price currency="EUR">2782.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>14 / Campamento Confort</title>
+      <s:price currency="EUR">1666.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>14 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">2576.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>14 / Campamento Superior con AC (+85€)</title>
+      <s:price currency="EUR">2856.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>15 / Campamento Confort</title>
+      <s:price currency="EUR">1785.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>15 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">2760.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>15 / Campamento Superior con AC (+85€)</title>
+      <s:price currency="EUR">3060.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>16 / Campamento Confort</title>
+      <s:price currency="EUR">1744.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>16 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">2784.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>16 / Campamento Superior con AC (+85€)</title>
+      <s:price currency="EUR">3104.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>17 / Campamento Confort</title>
+      <s:price currency="EUR">1853.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>17 / Campamento Superior (+65€)</title>
+      <s:price currency="EUR">2958.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7726370783446</id>
+      <title>17 / Campamento Superior con AC (+85€)</title>
+      <s:price currency="EUR">3298.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

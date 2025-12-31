@@ -1,0 +1,1397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://descubredesierto.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://descubredesierto.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://descubredesierto.com/collections/actividades-en-marrakech.atom"/>
+  <title>Descubre Desierto</title>
+  <updated>2024-05-10T18:53:46+01:00</updated>
+  <author>
+    <name>Descubre Desierto</name>
+  </author>
+  <entry>
+    <id>https://descubredesierto.com/products/8524227313878</id>
+    <published>2024-05-10T18:53:46+01:00</published>
+    <updated>2024-05-10T18:53:46+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://descubredesierto.com/products/paseo-en-globo-aerostatico-en-marrakech"/>
+    <title>Paseo en globo aerostático en Marrakech</title>
+    <s:type>Actividad</s:type>
+    <s:vendor>Descubre desierto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0654/7836/1302/files/paseo-en-globo-aerostatico-en-marrakech-1.jpg?v=1715363162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Descubre desierto<br>
+        <strong>Tipo: </strong>Actividad<br>
+        <strong>Precio: </strong>
+            149.00 - 2086.00
+            <a href="https://descubredesierto.com/products/paseo-en-globo-aerostatico-en-marrakech">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8">Descubre la magia de Marrakech desde una perspectiva única con un inolvidable paseo en globo aerostático. A medida que el sol emerge en el horizonte, el globo te lleva suavemente sobre paisajes desérticos, palmerales y pueblos tradicionales, ofreciendo vistas panorámicas impresionantes.</p>
+<p>Siente la emoción de elevarte por los cielos mientras disfrutas de una experiencia serena y mágica, perfecta para los <a href="https://descubredesierto.com/pages/actividades-en-marrakech" target="_blank" title="Actividades en Marrakech" rel="noopener">aventureros</a> que desean una perspectiva diferente de la belleza marroquí.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Actividades en Marrakech</s:tag>
+    <s:tag>Excursiones en Oferta</s:tag>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8524227313878</id>
+      <title>1</title>
+      <s:price currency="EUR">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8524227313878</id>
+      <title>2</title>
+      <s:price currency="EUR">298.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8524227313878</id>
+      <title>3</title>
+      <s:price currency="EUR">447.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8524227313878</id>
+      <title>4</title>
+      <s:price currency="EUR">596.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8524227313878</id>
+      <title>5</title>
+      <s:price currency="EUR">745.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8524227313878</id>
+      <title>6</title>
+      <s:price currency="EUR">894.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8524227313878</id>
+      <title>7</title>
+      <s:price currency="EUR">1043.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8524227313878</id>
+      <title>8</title>
+      <s:price currency="EUR">1192.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8524227313878</id>
+      <title>9</title>
+      <s:price currency="EUR">1341.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8524227313878</id>
+      <title>10</title>
+      <s:price currency="EUR">1490.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8524227313878</id>
+      <title>11</title>
+      <s:price currency="EUR">1639.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8524227313878</id>
+      <title>12</title>
+      <s:price currency="EUR">1788.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8524227313878</id>
+      <title>13</title>
+      <s:price currency="EUR">1937.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/8524227313878</id>
+      <title>14</title>
+      <s:price currency="EUR">2086.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://descubredesierto.com/products/7990881059030</id>
+    <published>2023-05-11T11:15:19+01:00</published>
+    <updated>2023-05-11T11:15:19+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://descubredesierto.com/products/paseo-en-camello-en-el-desierto-de-agafay"/>
+    <title>Paseo en camello al atardecer en el desierto de Agafay desde Marrakech</title>
+    <s:type>Actividad</s:type>
+    <s:vendor>Descubre desierto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0654/7836/1302/products/paseo-en-camello-agafay1.jpg?v=1676038666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Descubre desierto<br>
+        <strong>Tipo: </strong>Actividad<br>
+        <strong>Precio: </strong>
+            90.00 - 493.00
+            <a href="https://descubredesierto.com/products/paseo-en-camello-en-el-desierto-de-agafay">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>¿No tienes tiempo en tu <a href="https://descubredesierto.com/pages/actividades-en-marrakech" title="Experiencias en Marrakech Marruecos">viaje a Marrakech</a> para montar en camello en el desierto de Merzouga o Zagora? Te proponemos hacerlo en Agafay, el desierto más cercano a Marrakech, ¡se encuentra a solo 40min de la ciudad ocre!</p>
+<p>Sumérgete en una belleza que nunca olvidarás, sobre todo con la inminente puesta de sol. El paseo en camello en el desierto de Agafay, es de las actividades en Marrakech que te fascinará a ti y a tu pareja, a tu familia o a un grupo de amigos.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Actividades en Marrakech</s:tag>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990881059030</id>
+      <title>2</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990881059030</id>
+      <title>3</title>
+      <s:price currency="EUR">117.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990881059030</id>
+      <title>4</title>
+      <s:price currency="EUR">156.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990881059030</id>
+      <title>5</title>
+      <s:price currency="EUR">195.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990881059030</id>
+      <title>6</title>
+      <s:price currency="EUR">210.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990881059030</id>
+      <title>7</title>
+      <s:price currency="EUR">245.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990881059030</id>
+      <title>8</title>
+      <s:price currency="EUR">280.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990881059030</id>
+      <title>9</title>
+      <s:price currency="EUR">315.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990881059030</id>
+      <title>10</title>
+      <s:price currency="EUR">290.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990881059030</id>
+      <title>11</title>
+      <s:price currency="EUR">319.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990881059030</id>
+      <title>12</title>
+      <s:price currency="EUR">348.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990881059030</id>
+      <title>13</title>
+      <s:price currency="EUR">377.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990881059030</id>
+      <title>14</title>
+      <s:price currency="EUR">406.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990881059030</id>
+      <title>15</title>
+      <s:price currency="EUR">435.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990881059030</id>
+      <title>16</title>
+      <s:price currency="EUR">464.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990881059030</id>
+      <title>17</title>
+      <s:price currency="EUR">493.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://descubredesierto.com/products/7990900228310</id>
+    <published>2023-02-07T14:53:40+01:00</published>
+    <updated>2023-02-07T14:53:40+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://descubredesierto.com/products/tour-en-quad-en-el-desierto-de-agafay"/>
+    <title>Ruta en Quad por el desierto de Agafay</title>
+    <s:type>Actividad</s:type>
+    <s:vendor>Descubre desierto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0654/7836/1302/products/tour-desierto-desde-marrakech-quad.jpg?v=1675778644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Descubre desierto<br>
+        <strong>Tipo: </strong>Actividad<br>
+        <strong>Precio: </strong>
+            45.00 - 970.00
+            <a href="https://descubredesierto.com/products/tour-en-quad-en-el-desierto-de-agafay">(98 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Con sus colinas en forma de dunas y su excepcional vista del Atlas, el desierto de Agafay es la nueva <strong>estrella de la región de Marrakech</strong>.</p>
+<p>Deja que tu adrenalina suba y recorre este lugar excepcional en Quad.<b> </b>Esa excursión al desierto de Afagay. será, sin duda, uno de los momentos más destacados de tu <a title="Excursiones, tours y actividades desde Marrakech" href="https://descubredesierto.com/">viaje a Marrakech.</a> <strong data-mce-fragment="1">¡Prepárate para vivir una experiencia emocionante en un marco incomparable</strong><span data-mce-fragment="1"><strong data-mce-fragment="1">!</strong> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Actividades en Marrakech</s:tag>
+    <s:tag>Excursiones Favoritas</s:tag>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>1 quad individual / Sin</title>
+      <s:price currency="EUR">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>1 quad individual / 1 quad doble</title>
+      <s:price currency="EUR">110.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>1 quad individual / 2 quads dobles</title>
+      <s:price currency="EUR">175.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>1 quad individual / 3 quads dobles</title>
+      <s:price currency="EUR">240.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>1 quad individual / 4 quads dobles</title>
+      <s:price currency="EUR">305.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>1 quad individual / 5 quads dobles</title>
+      <s:price currency="EUR">370.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>1 quad individual / 6 quads dobles</title>
+      <s:price currency="EUR">435.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>1 quad individual / 7 quads dobles</title>
+      <s:price currency="EUR">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>1 quad individual / 8 quads dobles</title>
+      <s:price currency="EUR">565.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>2 quads individuales / Sin</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>2 quads individuales / 1 quad doble</title>
+      <s:price currency="EUR">155.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>2 quads individuales / 2 quads dobles</title>
+      <s:price currency="EUR">220.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>2 quads individuales / 3 quads dobles</title>
+      <s:price currency="EUR">285.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>2 quads individuales / 4 quads dobles</title>
+      <s:price currency="EUR">350.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>2 quads individuales / 5 quads dobles</title>
+      <s:price currency="EUR">415.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>2 quads individuales / 6 quads dobles</title>
+      <s:price currency="EUR">480.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>2 quads individuales / 7 quads dobles</title>
+      <s:price currency="EUR">545.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>2 quads individuales / 8 quads dobles</title>
+      <s:price currency="EUR">610.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>3 quads individuales / Sin</title>
+      <s:price currency="EUR">135.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>3 quads individuales / 1 quad doble</title>
+      <s:price currency="EUR">200.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>3 quads individuales / 2 quads dobles</title>
+      <s:price currency="EUR">265.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>3 quads individuales / 3 quads dobles</title>
+      <s:price currency="EUR">330.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>3 quads individuales / 4 quads dobles</title>
+      <s:price currency="EUR">395.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>3 quads individuales / 5 quads dobles</title>
+      <s:price currency="EUR">460.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>3 quads individuales / 6 quads dobles</title>
+      <s:price currency="EUR">525.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>3 quads individuales / 7 quads dobles</title>
+      <s:price currency="EUR">590.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>3 quads individuales / 8 quads dobles</title>
+      <s:price currency="EUR">655.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>4 quads individuales / Sin</title>
+      <s:price currency="EUR">180.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>4 quads individuales / 1 quad doble</title>
+      <s:price currency="EUR">245.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>4 quads individuales / 2 quads dobles</title>
+      <s:price currency="EUR">310.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>4 quads individuales / 3 quads dobles</title>
+      <s:price currency="EUR">375.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>4 quads individuales / 4 quads dobles</title>
+      <s:price currency="EUR">440.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>4 quads individuales / 5 quads dobles</title>
+      <s:price currency="EUR">505.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>4 quads individuales / 6 quads dobles</title>
+      <s:price currency="EUR">570.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>4 quads individuales / 7 quads dobles</title>
+      <s:price currency="EUR">635.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>4 quads individuales / 8 quads dobles</title>
+      <s:price currency="EUR">700.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>5 quads individuales / Sin</title>
+      <s:price currency="EUR">225.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>5 quads individuales / 1 quad doble</title>
+      <s:price currency="EUR">290.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>5 quads individuales / 2 quads dobles</title>
+      <s:price currency="EUR">355.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>5 quads individuales / 3 quads dobles</title>
+      <s:price currency="EUR">420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>5 quads individuales / 4 quads dobles</title>
+      <s:price currency="EUR">485.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>5 quads individuales / 5 quads dobles</title>
+      <s:price currency="EUR">550.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>5 quads individuales / 6 quads dobles</title>
+      <s:price currency="EUR">615.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>5 quads individuales / 7 quads dobles</title>
+      <s:price currency="EUR">680.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>5 quads individuales / 8 quads dobles</title>
+      <s:price currency="EUR">745.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>6 quads individuales / Sin</title>
+      <s:price currency="EUR">270.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>6 quads individuales / 1 quad doble</title>
+      <s:price currency="EUR">335.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>6 quads individuales / 2 quads dobles</title>
+      <s:price currency="EUR">400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>6 quads individuales / 3 quads dobles</title>
+      <s:price currency="EUR">465.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>6 quads individuales / 4 quads dobles</title>
+      <s:price currency="EUR">530.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>6 quads individuales / 5 quads dobles</title>
+      <s:price currency="EUR">595.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>6 quads individuales / 6 quads dobles</title>
+      <s:price currency="EUR">660.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>6 quads individuales / 7 quads dobles</title>
+      <s:price currency="EUR">725.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>6 quads individuales / 8 quads dobles</title>
+      <s:price currency="EUR">790.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>7 quads individuales / Sin</title>
+      <s:price currency="EUR">315.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>7 quads individuales / 1 quad doble</title>
+      <s:price currency="EUR">380.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>7 quads individuales / 2 quads dobles</title>
+      <s:price currency="EUR">445.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>7 quads individuales / 3 quads dobles</title>
+      <s:price currency="EUR">510.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>7 quads individuales / 4 quads dobles</title>
+      <s:price currency="EUR">575.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>7 quads individuales / 5 quads dobles</title>
+      <s:price currency="EUR">640.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>7 quads individuales / 6 quads dobles</title>
+      <s:price currency="EUR">705.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>7 quads individuales / 7 quads dobles</title>
+      <s:price currency="EUR">770.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>7 quads individuales / 8 quads dobles</title>
+      <s:price currency="EUR">835.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>8 quads individuales / Sin</title>
+      <s:price currency="EUR">360.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>8 quads individuales / 1 quad doble</title>
+      <s:price currency="EUR">425.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>8 quads individuales / 2 quads dobles</title>
+      <s:price currency="EUR">490.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>8 quads individuales / 3 quads dobles</title>
+      <s:price currency="EUR">555.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>8 quads individuales / 4 quads dobles</title>
+      <s:price currency="EUR">620.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>8 quads individuales / 5 quads dobles</title>
+      <s:price currency="EUR">685.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>8 quads individuales / 6 quads dobles</title>
+      <s:price currency="EUR">750.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>8 quads individuales / 7 quads dobles</title>
+      <s:price currency="EUR">815.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>8 quads individuales / 8 quads dobles</title>
+      <s:price currency="EUR">880.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>9 quads individuales / Sin</title>
+      <s:price currency="EUR">405.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>9 quads individuales / 1 quad doble</title>
+      <s:price currency="EUR">470.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>9 quads individuales / 2 quads dobles</title>
+      <s:price currency="EUR">535.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>9 quads individuales / 3 quads dobles</title>
+      <s:price currency="EUR">600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>9 quads individuales / 4 quads dobles</title>
+      <s:price currency="EUR">665.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>9 quads individuales / 5 quads dobles</title>
+      <s:price currency="EUR">730.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>9 quads individuales / 6 quads dobles</title>
+      <s:price currency="EUR">795.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>9 quads individuales / 7 quads dobles</title>
+      <s:price currency="EUR">860.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>9 quads individuales / 8 quads dobles</title>
+      <s:price currency="EUR">925.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>10 quads individuales / Sin</title>
+      <s:price currency="EUR">450.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>10 quads individuales / 1 quad doble</title>
+      <s:price currency="EUR">515.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>10 quads individuales / 2 quads dobles</title>
+      <s:price currency="EUR">580.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>10 quads individuales / 3 quads dobles</title>
+      <s:price currency="EUR">645.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>10 quads individuales / 4 quads dobles</title>
+      <s:price currency="EUR">710.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>10 quads individuales / 5 quads dobles</title>
+      <s:price currency="EUR">775.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>10 quads individuales / 6 quads dobles</title>
+      <s:price currency="EUR">840.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>10 quads individuales / 7 quads dobles</title>
+      <s:price currency="EUR">905.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>10 quads individuales / 8 quads dobles</title>
+      <s:price currency="EUR">970.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>Sin / 1 quad doble</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>Sin / 2 quads dobles</title>
+      <s:price currency="EUR">130.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>Sin / 3 quads dobles</title>
+      <s:price currency="EUR">195.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>Sin / 4 quads dobles</title>
+      <s:price currency="EUR">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>Sin / 5 quads dobles</title>
+      <s:price currency="EUR">325.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>Sin / 6 quads dobles</title>
+      <s:price currency="EUR">390.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>Sin / 7 quads dobles</title>
+      <s:price currency="EUR">455.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7990900228310</id>
+      <title>Sin / 8 quads dobles</title>
+      <s:price currency="EUR">520.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://descubredesierto.com/products/7818874716374</id>
+    <published>2022-12-23T10:49:59+01:00</published>
+    <updated>2022-12-23T10:49:59+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://descubredesierto.com/products/visita-privada-y-guiada-por-marrakech"/>
+    <title>Visita privada y guiada por Marrakech</title>
+    <s:type>Actividad</s:type>
+    <s:vendor>Descubre desierto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0654/7836/1302/products/jardin-majorelle.jpg?v=1663328308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Descubre desierto<br>
+        <strong>Tipo: </strong>Actividad<br>
+        <strong>Precio: </strong>
+            69.00 - 265.00
+            <a href="https://descubredesierto.com/products/visita-privada-y-guiada-por-marrakech">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Marrakech es<strong> una ciudad que atraviesa todos los sentidos</strong>, con su cultura, ambiente, animadas plazas, zocos y monumentos históricos.</p>
+<p>¿Qué hacer y ver en Marrakech? Recorre las calles de <strong>la misteriosa Medina</strong> y los lugares más relevantes de Marrakech, para acercarse a su <strong>cultura, historia, tradición y gastronomía</strong>. Un guía de habla hispana estará a vuestra disposición para descubrir la ciudad roja.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Actividades en Marrakech</s:tag>
+    <s:tag>Excursiones Favoritas</s:tag>
+    <s:tag>Valentin</s:tag>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7818874716374</id>
+      <title>Hasta 4 personas / Medio día con Guía</title>
+      <s:price currency="EUR">69.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7818874716374</id>
+      <title>Hasta 4 personas / 1 día  con Guía y transporte</title>
+      <s:price currency="EUR">185.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7818874716374</id>
+      <title>Hasta 8 personas / Medio día con Guía</title>
+      <s:price currency="EUR">89.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7818874716374</id>
+      <title>Hasta 8 personas / 1 día  con Guía y transporte</title>
+      <s:price currency="EUR">205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7818874716374</id>
+      <title>Hasta 12 personas / Medio día con Guía</title>
+      <s:price currency="EUR">109.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7818874716374</id>
+      <title>Hasta 12 personas / 1 día  con Guía y transporte</title>
+      <s:price currency="EUR">245.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7818874716374</id>
+      <title>Hasta 17 personas / Medio día con Guía</title>
+      <s:price currency="EUR">119.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7818874716374</id>
+      <title>Hasta 17 personas / 1 día  con Guía y transporte</title>
+      <s:price currency="EUR">265.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://descubredesierto.com/products/7766928818390</id>
+    <published>2022-07-20T19:33:04+01:00</published>
+    <updated>2022-07-20T19:33:04+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://descubredesierto.com/products/tour-en-quad-en-marrakech"/>
+    <title>Tour en Quad en el palmeral de Marrakech</title>
+    <s:type>Actividad</s:type>
+    <s:vendor>Descubre desierto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0654/7836/1302/products/quad-palmeral1.jpg?v=1663327783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Descubre desierto<br>
+        <strong>Tipo: </strong>Actividad<br>
+        <strong>Precio: </strong>
+            39.00 - 663.00
+            <a href="https://descubredesierto.com/products/tour-en-quad-en-marrakech">(17 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Aventura en quad autodirigido en el palmeral de Marrakech. ¡Viva una buena dosis de adrenalina en nuestro tour en quad en Marrakech! ¡Súbete al cuadriciclo y acelere! ¡Los quads son una de las <a href="https://descubredesierto.com/collections/actividades-en-marrakech">actividades favoritas en Marrakech</a> de todos los entusiastas de la diversión relajada!</p>
+<p data-mce-fragment="1">Los alrededores de Marrakech ofrecen una sensación de desierto, caminos pedregosos y la sombra de las palmeras en la Palmeraie. Nuestro conductor te recogerá en tu hotel o Riad y te llevará directamente al aparcamiento de los quads. ¡Tu aventura de adrenalina comenzará ya!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Actividades en Marrakech</s:tag>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7766928818390</id>
+      <title>1</title>
+      <s:price currency="EUR">39.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7766928818390</id>
+      <title>2</title>
+      <s:price currency="EUR">78.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7766928818390</id>
+      <title>3</title>
+      <s:price currency="EUR">117.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7766928818390</id>
+      <title>4</title>
+      <s:price currency="EUR">156.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7766928818390</id>
+      <title>5</title>
+      <s:price currency="EUR">195.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7766928818390</id>
+      <title>6</title>
+      <s:price currency="EUR">234.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7766928818390</id>
+      <title>7</title>
+      <s:price currency="EUR">273.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7766928818390</id>
+      <title>8</title>
+      <s:price currency="EUR">312.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7766928818390</id>
+      <title>9</title>
+      <s:price currency="EUR">351.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7766928818390</id>
+      <title>10</title>
+      <s:price currency="EUR">390.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7766928818390</id>
+      <title>11</title>
+      <s:price currency="EUR">429.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7766928818390</id>
+      <title>12</title>
+      <s:price currency="EUR">468.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7766928818390</id>
+      <title>13</title>
+      <s:price currency="EUR">507.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7766928818390</id>
+      <title>14</title>
+      <s:price currency="EUR">546.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7766928818390</id>
+      <title>15</title>
+      <s:price currency="EUR">585.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7766928818390</id>
+      <title>16</title>
+      <s:price currency="EUR">624.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7766928818390</id>
+      <title>17</title>
+      <s:price currency="EUR">663.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://descubredesierto.com/products/7766703800534</id>
+    <published>2022-07-20T11:17:22+01:00</published>
+    <updated>2022-07-20T11:17:22+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://descubredesierto.com/products/paseo-en-camello-por-el-palmeral-de-marrakech"/>
+    <title>Paseo en camello por el palmeral de Marrakech</title>
+    <s:type>Actividad</s:type>
+    <s:vendor>Descubre desierto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0654/7836/1302/products/paseo-en-camello-palmeral.jpg?v=1675694059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Descubre desierto<br>
+        <strong>Tipo: </strong>Actividad<br>
+        <strong>Precio: </strong>
+            25.00 - 425.00
+            <a href="https://descubredesierto.com/products/paseo-en-camello-por-el-palmeral-de-marrakech">(17 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Un <a href="https://descubredesierto.com/">viaje a</a><a href="https://descubredesierto.com/" title="Viajes a Marruecos"> Marrake</a><a href="https://descubredesierto.com/">ch</a> por primera vez, no está completo si no se experimenta <strong>un mágico paseo en camello por Marrakech</strong>, donde las caravanas llenaban el paisaje desértico. Si no tienes tiempo para disfrutar de una <a href="https://descubredesierto.com/pages/tours-al-desierto" title="Tours y excursiones al desierto de Marrakech">excursión por el desierto de 3 ó 4 días</a> por en las profundidades del Sáhara, una experiencia de paseo en camello por el palmeral de Marrakech es definitivamente imprescindible.</p>
+<p data-mce-fragment="1"> La Palmeraie (el palmeral en español) se encuentra a las afueras de la ciudad de Marrakech y cubre una superficie total de 54 millas cuadradas, repletas de más de 100.000 palmeras que dan sombra al caluroso sol africano. Elige entre un paseo a primera hora de la mañana, a última hora de la tarde o por la noche para <strong>vivir una auténtica aventura marroquí</strong>. Los viajes de última hora de la tarde son espectaculares debido a las hermosas puestas de sol que podrás presenciar a lo largo de los caminos.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Actividades en Marrakech</s:tag>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7766703800534</id>
+      <title>1</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7766703800534</id>
+      <title>2</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7766703800534</id>
+      <title>3</title>
+      <s:price currency="EUR">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7766703800534</id>
+      <title>4</title>
+      <s:price currency="EUR">100.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7766703800534</id>
+      <title>5</title>
+      <s:price currency="EUR">125.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7766703800534</id>
+      <title>6</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7766703800534</id>
+      <title>7</title>
+      <s:price currency="EUR">175.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7766703800534</id>
+      <title>8</title>
+      <s:price currency="EUR">200.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7766703800534</id>
+      <title>9</title>
+      <s:price currency="EUR">225.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7766703800534</id>
+      <title>10</title>
+      <s:price currency="EUR">250.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7766703800534</id>
+      <title>11</title>
+      <s:price currency="EUR">275.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7766703800534</id>
+      <title>12</title>
+      <s:price currency="EUR">300.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7766703800534</id>
+      <title>13</title>
+      <s:price currency="EUR">325.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7766703800534</id>
+      <title>14</title>
+      <s:price currency="EUR">350.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7766703800534</id>
+      <title>15</title>
+      <s:price currency="EUR">375.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7766703800534</id>
+      <title>16</title>
+      <s:price currency="EUR">400.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://descubredesierto.com/products/7766703800534</id>
+      <title>17</title>
+      <s:price currency="EUR">425.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
