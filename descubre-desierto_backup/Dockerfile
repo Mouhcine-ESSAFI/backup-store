@@ -14,4 +14,4 @@ RUN echo "ServerName localhost" >> /usr/local/apache2/conf/httpd.conf
 COPY descubredesierto.com/ /usr/local/apache2/htdocs/
 COPY .htaccess /usr/local/apache2/htdocs/.htaccess
 
-EXPOSE 3000
+EXPOSE 90
